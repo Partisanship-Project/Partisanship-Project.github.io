@@ -5,8 +5,13 @@ function fetchMemberData(){
     if (member_input=='' || member_input=='Select a Member'){
         member_input=$("#member_select").val("Select a Member");
     }else{
-        console.log('got here1')
-        newdata=fetchMetaData(member_input);
+        if (location.hostname === "localhost" || location.hostname === "127.0.0.1"|| location.hostname === ""){
+            $('#official_name').text('successful name change');
+            $('#affiliation').text('succesful party change');
+        }else{
+            console.log('got here1')
+            newdata=fetchMetaData(member_input);
+        }
         //$('official_name').text(newdata[0].Fullname);
     }
 }
@@ -19,6 +24,7 @@ function fetchMetaData(name){
     d3.csv("../assets/data/metadata.csv", function(data) {
         console.log(data)
         if (data.Fullname==name){
+            console.log('getting data')
             if (data.District==0){
                 title='Senator ';
             } else {
