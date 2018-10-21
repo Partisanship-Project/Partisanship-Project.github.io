@@ -77,11 +77,11 @@
 
 <section class="features11 cid-r66XHGBLE7" id="features11-5">
     
-    <form autocomplete="off" action="/action_page.php">
+    <form autocomplete="off" >
       <div class="autocomplete" style="width:300px;">
-        <input id="myInput" type="text" name="myMember" placeholder="Member">
+        <input id="member_select" type="text" name="myMember" placeholder="Member">
       </div>
-      <input type="submit">
+      <input type="submit" value='Get Member' onclick="fetchMemberData()">
     </form>
     <div class="container">   
         <div class="col-md-12">
@@ -147,7 +147,12 @@
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="assets/datajs/members.js"></script>
 <script>
-  var members=getMembers();//["Jason Radford","Betsy Sinclair"];
+  var member='';
+  if (location.hostname === "localhost" || location.hostname === "127.0.0.1"|| location.hostname === ""){
+    var members=["Jason Radford","Betsy Sinclair"];
+  }else{
+    var members=getMembers();//["Jason Radford","Betsy Sinclair"];
+  }
 
   function autocomplete(inp, arr) {
     /*the autocomplete function takes two arguments,
@@ -247,7 +252,7 @@
   } 
 
 
-autocomplete(document.getElementById("myInput"), members);
+autocomplete(document.getElementById("member_select"), members);
 </script>
 </body>
 </html>
