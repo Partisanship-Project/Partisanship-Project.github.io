@@ -76,14 +76,44 @@
 </section>
 
 <section class="features11 cid-r66XHGBLE7" id="features11-5">
-    
-    <!--<form autocomplete="off" target=_blank >-->
-      <!--<div class="autocomplete" style="width:300px;">-->
-        <input id="member_select" type="text" name="myMember" placeholder="Member" autocomplete="off">
-      <!--</div>-->
+    <div class="container">
+      <input id="member_select" type="text" name="myMember" placeholder="Member" autocomplete="off">
       <input type="submit" value='Get Member' onclick="fetchMemberData()">
-    <!--</form>-->
-    <div class="container">   
+    </div>
+    <div class="container" id='main_container'>
+      <div class="row">
+        <div class='col-sm-6'>
+          <h2>
+            <div id="official_name_l">Representative John Kennedy</div>
+          </h2>
+          <div class=row>
+            <div class='col-6 col-sm-6'>
+              <img src="assets/images/mbr-952x1150.jpg" style="width: 75%;" id="picture_l" alt="Kennedy" title="">
+            </div>
+            <div class='col-6 col-sm-6'>
+                <div id="affiliation_l">Democrat from the Massachusetts 11th District</div>
+            </div>
+            
+          </div>
+         
+        </div>
+        <div class='col-sm-6'>
+          <h2>
+            <div id="official_name_r">Representative John Kennedy Jr</div>
+          </h2>
+          <div class=row>
+            <div class='col-6 col-sm-6' >
+              <img src="assets/images/mbr-952x1150.jpg" style="width: 75%;" id="picture_r" alt="Kennedy" title="">
+            </div>
+            <div class='col-6 col-sm-6'>
+                <div id="affiliation_r">Democrat from the Illinois 12th District</div>
+            </div>
+            
+          </div>
+         
+        </div>
+      </div>
+      
         <div class="col-md-12">
             <div class="media-container-row">
                 <div class="mbr-figure" style="width: 50%;">
@@ -156,7 +186,7 @@
   }else{
     var members=getMembers();//["Jason Radford","Betsy Sinclair"];
   }
-  $( "#member_select" ).autocomplete({source: members});
+  $( "#member_select" ).autocomplete({source: members}); //native jquery autocomplete function
   //function autocomplete(inp, arr) {
   //  /*the autocomplete function takes two arguments,
   //  the text field element and an array of possible autocompleted values:*/
