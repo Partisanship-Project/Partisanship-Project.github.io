@@ -78,7 +78,7 @@ function fetchRaceData(state,district){
         }
         var i=0;
         if (data.state==state & data.district==district){
-            i++1;
+            i++;
             console.log('getting data')
             if (data.district==0){
                 title='Senator ';
@@ -98,7 +98,8 @@ function fetchRaceData(state,district){
                 var history_url='/assets/replication/Images/'+data.twitter+'.jpg';
                 history_url='/assets/replication/Images/sinclair.jpg';
             }else{
-                var res=
+                var history_url='/assets/replication/Images/no_data.jpg';       //need to create this image
+                history_url='/assets/replication/Images/sinclair.jpg';
             }
             //Create the card object we will attach a members' data to
             var card=$("<div class='col-"+ratio.toString()+" col-sm-"+ratio.toString()+"'>")
@@ -142,7 +143,7 @@ function fetchRaceData(state,district){
         for (r=0; r<=Math.floor(count/3); r++ ){
             if (cards.length>=3){
                 var bigrow=$("<div class=row></div>")
-                bigrow.append(cards.slice[0:3])
+                bigrow.append(cards.slice(0,3))
                 cardrows.push(bigrow)
             }else if (cards.length!=0){
                 var bigrow=$("<div class=row></div>")
@@ -156,7 +157,7 @@ function fetchRaceData(state,district){
         }
         
     });
-    for (d in div)
+    //for (d in div)
     //return output
 }
 
