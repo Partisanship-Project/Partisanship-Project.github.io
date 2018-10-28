@@ -1,8 +1,8 @@
 //generates a list of members - ["John Kennedy", "John McCain"]
 function getMembers(){
     var members=[];
-    d3.csv("../assets/data/metadata.csv", function(data) {
-        members.push(data.Fullname)
+    d3.csv("../assets/replication/data/metadata.csv", function(data) {
+        members.push(data.name)
     });
     return members
 }
@@ -35,73 +35,131 @@ function fetchMemberData(){
             $('#affiliation').text('succesful party change');
         }else{
             console.log('got here1')
-            fetchMetaData(member_input);
-            fetchOtherMembers(member_input);
+            
+            fetchRaceByName(member_input);
         }
-        //$('official_name').text(newdata[0].Fullname);
+        
     }
-    fetchOtherMembers();
 }
 
-function fetchMetaDataByName(name){
+function fetchRaceByName(name){
     var title=''; //[Chamber] [Full Name]
     var affiliation = ''; //[party] from [State]
     var party ='';
     var state= '';
     d3.csv("../assets/data/metadata.csv", function(data) {
         console.log(data)
-        if (data.Fullname==name){
-            console.log('getting data')
-            if (data.District==0){
-                title='Senator ';
-            } else {
-                title="Representative ";
-            }
-            if (data.Party=='D'){
-                party='Democratic Candidate for ';
-            }else if (data.Party=='R'){
-                party='Republican Candidate for ';
-            }else{
-                party='Candidate for ';
-            }
-            //output.push(data)
-            $('#official_name').text(title.concat(data.Fullname));
-            $('#affiliation').text(party.concat(data.State));
+        if (data.name==name){
+            var state=data.state;
+            var district=data.district
+            fetchRaceDataByDistrict(state,district)
         }
     });
-    //return output
 }
 
-function fetchMetaDataByDistrict(state,district){
+function fetchRaceData(state,district){
     //idea here is person enters a zipcode and we lookup their district.
     var title=''; //[Chamber] [Full Name]
     var affiliation = ''; //[party] from [State]
     var party ='';
     var state= '';
-    d3.csv("../assets/data/metadata.csv", function(data) {
+    var cards=[];
+    d3.csv("../assets/replication/data/metadata.csv", function(data) {
         console.log(data)
-        if (data.Fullname==name){
+        var count=0;
+        if (data.state==state & data.district==district){
+            count++1;
+        }    
+        //if there are more than 3 condidates, we're going to do multiple rows
+        if (count>3){
+            var ratio=Math.round(12/count);
+        }else{
+            var ratio=4;
+        }
+        var i=0;
+        if (data.state==state & data.district==district){
+            i++1;
             console.log('getting data')
-            if (data.District==0){
+            if (data.district==0){
                 title='Senator ';
             } else {
                 title="Representative ";
             }
-            if (data.Party=='D'){
+            if (data.party=='D'){
                 party='Democratic Candidate for ';
-            }else if (data.Party=='R'){
+            }else if (data.party=='R'){
                 party='Republican Candidate for ';
             }else{
                 party='Candidate for ';
             }
-            //output.push(data)
-            $('#official_name').text(title.concat(data.Fullname));
-            $('#affiliation').text(party.concat(data.State));
+            var headshot_url='../assets/images/headshots/'+district+state+'.jpg';
+            headshot_url='../assets/images/headshots/sinclair.jpg';
+            if (data.twitter!=''){
+                var history_url='/assets/replication/images/'+data.twitter+'.jpg';
+                history_url='/assets/replication/images/sinclair.jpg';
+            }else{
+                var res=
+            }
+            //Create the card object we will attach a members' data to
+            var card=$("<div class='col-"+ratio.toString()+" col-sm-"+ratio.toString()+"'>")
+            //create title
+            var h=$("<h2></h2>");
+            var n=$("<div id='official_name"+i.toString()+"'>").text(title.concat(data.name));
+            h.append(n);
+            
+            //create and append first row of profile picture and member info
+            var row1=$("<div class=row></div>")
+            var col1=$("<div class='col-6 col-sm-6'>")
+            var img1=$('<img src='+headshot_url+' style="width: 75%;" id="picture_'+i.toString()+'" title="">');
+            col1.append(img1)
+            var col2=$("<div class='col-6 col-sm-6'>")
+            var af=$('<div id="affiliation_'+i.toString()+'"></div>').text(party.concat(data.state))
+            col2.append(af)
+            row1.append(col1,col2)
+            
+            //create and append second row of history of partisanship
+            var row2=$("<div class=row></div>")
+            var col3=$("<div class='col'>")
+            var img1=
+            history_url
+            var photo=$('<img src='+history_url+' style="width: 150%;" id="history_'+i.toString()+'" title="">');
+            col3.append(photo)
+            row2.append(col3)
+            
+            //create and append table of top partisan words
+            var row3=$("<div class=row></div>")
+            //FORMAT TOPWORDS TABLE
+            row3.append('top words table!')
+            div.append(h,row1,row2,row3)
+            card.append(div)            
+            cards.push(card);  //add this card to the list of cards.
         }
+        
+        //clear the existing container
+        $("#member_container").empty()
+        //now that we have all the cards
+        var cardrows=[];
+        for (r=0; r<=Math.floor(count/3); r++ ){
+            if (cards.length>=3){
+                var bigrow=$("<div class=row></div>")
+                bigrow.append(cards.slice[0:3])
+                cardrows.push(bigrow)
+            }else if (cards.length!=0){
+                var bigrow=$("<div class=row></div>")
+                bigrow.append(cards)
+                cardrows.push(bigrow)
+                $("#member_container").append(cardrows)
+            }else{
+                $("#member_container").append(cardrows)
+            }
+            
+        }
+        
     });
+    for (d in div)
     //return output
 }
 
-function addProfile(){
-    //function adds a new column to the row
+function unitTest(){
+    
 }

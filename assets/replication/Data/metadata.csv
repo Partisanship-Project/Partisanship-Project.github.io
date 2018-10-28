@@ -1,0 +1,909 @@
+name,state,district,party,incumbent,twitter,polldate,state,district,candidatename,party,incumbent,winprobability,votesharepredicted
+Bradley Byrne,AL,1,R,1,bradleybyrne,10/11/18,AL,1,Bradley Byrne,R,TRUE,0.9951,65.3
+Robert Kennedy Jr.,AL,1,D,0,kennedy4alabama,10/11/18,AL,1,Robert Kennedy Jr.,D,FALSE,0.0049,34.7
+Martha Roby,AL,2,R,1,teamroby,10/11/18,AL,2,Martha Roby,R,TRUE,0.9964,66.43
+Tabita Isner,AL,2,D,0,TabithaK,10/11/18,AL,2,Tabitha Isner,D,FALSE,0.0036,33.57
+Mike Rogers,AL,3,R,1,MikeRogersCamp,10/11/18,AL,3,Mike Rogers,R,TRUE,0.9978,66.88
+Mallory Hagan,AL,3,D,0,HaganforHouse,10/11/18,AL,3,Mallory Hagan,D,FALSE,0.0022,33.12
+Robert Aderholt,AL,4,R,1,,10/11/18,AL,4,Robert B. Aderholt,R,TRUE,1,79.72
+Lee Auman,AL,4,D,0,LeeAuman2018,10/11/18,AL,4,Lee Auman,D,FALSE,0,20.28
+Mo Brooks,AL,5,R,1,,10/11/18,AL,5,Mo Brooks,R,TRUE,0.9976,67.17
+Petter Joffrion,AL,5,D,0,peter_joffrion,10/11/18,AL,5,Peter Joffrion,D,FALSE,0.0024,32.83
+Gary Palmer,AL,6,R,1,palmer4alabama,10/11/18,AL,6,Gary Palmer,R,TRUE,0.9999,73.7
+Danner Kline,AL,6,D,0,VoteDannerKline,10/11/18,AL,6,Danner Kline,D,FALSE,0.0001,26.3
+Terri Sewell,AL,7,R,1,sewell4congress,10/11/18,AL,7,Terri A. Sewell,D,TRUE,1,100
+Don Young,AK,0,R,1,donyoungak,10/11/18,AK,1,Don Young,R,TRUE,0.779,51.39
+Alyse Galvin,AK,0,D,0,AlyseGalvin,10/11/18,AK,1,Alyse S. Galvin,D,FALSE,0.221,43.73
+Tim O'Halleran,AZ,1,D,1,timohalleran,10/11/18,AZ,1,Tom O'Halleran,D,TRUE,0.7385,52.9
+Wendy Rogers,AZ,1,R,0,WendyRogersAZ,10/11/18,AZ,1,Wendy Rogers,R,FALSE,0.2615,47.1
+Lea Marquez Peterson,AZ,2,R,0,LeaPeterson,10/11/18,AZ,2,Lea Marquez Peterson,R,FALSE,0.1281,45.45
+Ann Kirkpatrick,AZ,2,D,1,ann_kirkpatrick,10/11/18,AZ,2,Ann Kirkpatrick,D,FALSE,0.8719,54.55
+Raul Grijalva,AZ,3,D,1,standwithraul,10/11/18,AZ,3,Raul Grijalva,D,TRUE,0.9992,71.29
+Nick Pierson,AZ,3,R,0,PiersonCongress,10/11/18,AZ,3,Nick Pierson,R,FALSE,0.0008,28.71
+Paul Gosar,AZ,4,R,1,DrPaulGosar,10/11/18,AZ,4,Paul A. Gosar,R,TRUE,0.9972,62.78
+David Brill,AZ,4,D,0,Brill4Congress,10/11/18,AZ,4,David Brill,D,FALSE,0.0028,33.28
+Andy Biggs,AZ,5,R,1,andybiggs4az,10/11/18,AZ,5,Andy Biggs,R,TRUE,0.9919,64.63
+Joan Greene,AZ,5,D,0,joangreeneaz,10/11/18,AZ,5,Joan Greene,D,FALSE,0.0081,35.37
+David Schweikert,AZ,6,R,1,DavidSchweikert,10/11/18,AZ,6,David Schweikert,R,TRUE,0.9426,58.9
+Anita Malik,AZ,6,D,0,anitamalik,10/11/18,AZ,6,Anita Malik,D,FALSE,0.0574,41.1
+Ruben Gallego,AZ,7,D,1,RubenGallego,10/11/18,AZ,7,Ruben Gallego,D,TRUE,0.9999,86.19
+James Bond,AZ,7,R,0,ZABLACKWOLF,10/11/18,AZ,7,Gary Swing,G,FALSE,0.0001,13.81
+Debbie Lesko,AZ,8,R,1,DebbieLesko,10/11/18,AZ,8,Debbie Lesko,R,TRUE,0.9194,56.39
+Hiral Tipirneni,AZ,8,D,0,hiral4congress,10/11/18,AZ,8,Hiral Tipirneni,D,FALSE,0.0806,43.61
+Greg Stanton,AZ,9,D,0,gregstantonaz,10/11/18,AZ,9,Greg Stanton,D,FALSE,0.9427,58.77
+Steve Ferrara,AZ,9,R,0,,10/11/18,AZ,9,Steve Ferrara,R,FALSE,0.0573,41.23
+Rick Crawford,AR,1,R,1,crawford4cong,10/11/18,AR,1,Rick Crawford,R,TRUE,0.9927,61.31
+Chintan Desai,AR,1,D,0,DecideonDesai,10/11/18,AR,1,Chintan Desai,D,FALSE,0.0073,34.82
+French Hill,AR,2,R,1,ElectFrench,10/11/18,AR,2,French Hill,R,TRUE,0.8015,51.99
+Clarke Tucker,AR,2,D,0,clarketucker,10/11/18,AR,2,Clarke Tucker,D,FALSE,0.1985,45.21
+Steve Womack,AR,3,R,1,womack4congress,10/11/18,AR,3,Steve Womack,R,TRUE,0.9886,58.63
+Joshua Mahony,AR,3,D,0,joshuamahony,10/11/18,AR,3,Josh Mahony,D,FALSE,0.0114,37.9
+Bruce Westerman,AR,4,R,1,WestermanAR,10/11/18,AR,4,Bruce Westerman,R,TRUE,0.9898,59.89
+Hayden Shamel,AR,4,D,0,HaydenShamel,10/11/18,AR,4,Hayden Shamel,D,FALSE,0.0102,36.16
+Doug LaMalfa,CA,1,R,1,,10/11/18,CA,1,Doug LaMalfa,R,TRUE,0.9773,61.79
+Audrey Denney,CA,1,D,0,audrey4congress,10/11/18,CA,1,Audrey Denney,D,FALSE,0.0227,38.21
+Jared Huffman,CA,2,D,1,JaredHuffman,10/11/18,CA,2,Jared Huffman,D,TRUE,1,80.87
+Dale Mensing,CA,2,R,0,,10/11/18,CA,2,Dale K. Mensing,R,FALSE,0,19.13
+John Garamendi,CA,3,D,1,JohnGaramendi,10/11/18,CA,3,John Garamendi,D,TRUE,0.9948,65.49
+Charlie Schaupp,CA,3,R,0,charlieschaupp,10/11/18,CA,3,Charlie Schaupp,R,FALSE,0.0052,34.51
+Tom McClintock,CA,4,R,1,tommcclintock,10/11/18,CA,4,Tom McClintock,R,TRUE,0.9438,59.16
+Jessica Morse,CA,4,D,0,Morse4America,10/11/18,CA,4,Jessica Morse,D,FALSE,0.0562,40.84
+Mike Thompson,CA,5,D,,Mike_CA05,10/11/18,CA,5,Mike Thompson,D,TRUE,0.9997,80.16
+Doris Matsui,CA,6,D,1,Matsui4Congress,10/11/18,CA,6,Doris O. Matsui,D,TRUE,1,78.4
+Jrmar Jefferson,CA,6,D,0,JrmarJefferson,10/11/18,CA,6,Jrmar Jefferson,D,FALSE,0,21.6
+Ami Bera,CA,7,D,1,beraforcongress,10/11/18,CA,7,Ami Bera,D,TRUE,0.9625,57.88
+Andrew Grant,CA,7,R,0,andrewfgrant,10/11/18,CA,7,Andrew Grant,R,FALSE,0.0375,42.12
+Paul Cook,CA,8,R,1,joinpaulcook,10/11/18,CA,8,Paul Cook,R,TRUE,0.9724,60.6
+Tim Donnelly,CA,8,R,0,PatriotNotPol,10/11/18,CA,8,Tim Donnelly,R,FALSE,0.0276,39.4
+Jerry McNerney,CA,9,D,1,jerrymcnerney,10/11/18,CA,9,Jerry McNerney,D,TRUE,0.9981,67.66
+Marla Livengood,CA,9,R,0,marlalivengood,10/11/18,CA,9,Marla Livengood,R,FALSE,0.0019,32.34
+Jeff Denham,CA,10,R,1,JeffDenham,10/11/18,CA,10,Jeff Denham,R,TRUE,0.52,50.21
+Josh Harder,CA,10,D,0,joshua_harder,10/11/18,CA,10,Josh Harder,D,FALSE,0.48,49.79
+Mark DeSaulnier,CA,11,D,1,MarkDeSaulnier,10/11/18,CA,11,Mark DeSaulnier,D,TRUE,1,80.66
+John Fitzgerald,CA,11,R,0,jfitz4congress,10/11/18,CA,11,John Fitzgerald,R,FALSE,0,19.34
+Nancy Pelosi,CA,12,D,1,TeamPelosi,10/11/18,CA,12,Nancy Pelosi,D,TRUE,1,91.37
+Lisa Remmer,CA,12,R,0,1776NotinVain,10/11/18,CA,12,Lisa Remmer,R,FALSE,0,8.63
+Barbara Lee,CA,13,D,1,bleeforcongress,10/11/18,CA,13,Barbara Lee,D,TRUE,1,89.88
+Jackie Speier,CA,14,D,1,JackieSpeier,10/11/18,CA,14,Jackie Speier,D,TRUE,1,84.52
+Cristina Osmena,CA,14,R,0,CristinaOsmena,10/11/18,CA,14,Cristina OsmeÃ±a,R,FALSE,0,15.48
+Eric Swalwell,CA,15,D,1,ericswalwell,10/11/18,CA,15,Eric Swalwell,D,TRUE,1,79.77
+Rudy Peters,CA,15,R,0,PetersCongress,10/11/18,CA,15,Rudy L. Peters Jr.,R,FALSE,0,20.23
+Jim Costa,CA,16,D,1,costafor16,10/11/18,CA,16,Jim Costa,D,TRUE,0.9453,57.69
+Elizabeth Heng,CA,16,R,0,ElizabethHeng,10/11/18,CA,16,Elizabeth Heng,R,FALSE,0.0547,42.31
+Ro Khanna,CA,17,D,1,RoKhanna,10/11/18,CA,17,Ro Khanna,D,TRUE,1,82.52
+Ron Cohen,CA,17,R,0,RonCohenUS17,10/11/18,CA,17,Ron Cohen,R,FALSE,0,17.48
+Anna Eshoo,CA,18,D,1,Eshoo4Congress,10/11/18,CA,18,Anna G. Eshoo,D,TRUE,1,82.13
+Christine Russell,CA,18,R,0,,10/11/18,CA,18,Christine Russell,R,FALSE,0,17.87
+Zoe Lofgren,CA,19,D,1,ZoeLofgren,10/11/18,CA,19,Zoe Lofgren,D,TRUE,1,81.57
+Justin Aguilera,CA,19,R,0,joinjustin19,10/11/18,CA,19,Justin James Aguilera,R,FALSE,0,18.43
+Jimmy Pentta,CA,20,D,1,JimmyPanetta,10/11/18,CA,20,Jimmy Panetta,D,TRUE,0.9992,76.63
+David Valadao,CA,21,R,1,dgvaladao,10/11/18,CA,21,David Valadao,R,TRUE,0.7363,53.16
+T.J. Cox,CA,21,D,0,TJCoxCongress,10/11/18,CA,21,TJ Cox,D,FALSE,0.2637,46.84
+Andrew Janz,CA,22,D,0,JanzforCongress,10/11/18,CA,22,Andrew Janz,D,FALSE,0.0493,44.14
+Devin Nunes,CA,22,R,1,DevinNunes,10/11/18,CA,22,Devin Nunes,R,TRUE,0.9507,55.86
+Kevin McCarthy,CA,23,R,1,kevinomccarthy,10/11/18,CA,23,Kevin McCarthy,R,TRUE,0.9949,65.67
+Tatiana Matta,CA,23,D,0,Matta4Congress,10/11/18,CA,23,Tatiana Matta,D,FALSE,0.0051,34.33
+Salud Carbajal,CA,24,D,1,carbajalsalud,10/11/18,CA,24,Salud Carbajal,D,TRUE,0.9399,57.75
+Justin Fareed,CA,24,R,0,JustinFareed,10/11/18,CA,24,Justin Fareed,R,FALSE,0.0601,42.25
+Steve Knight,CA,25,R,1,knight4congress,10/11/18,CA,25,Steve Knight,R,TRUE,0.5145,50.15
+Katie Hill,CA,25,D,0,KatieHill4CA,10/11/18,CA,25,Katie Hill,D,FALSE,0.4855,49.85
+Julia Brownley,CA,26,D,1,JuliaBrownley,10/11/18,CA,26,Julia Brownley,D,TRUE,0.9979,68.53
+Antonio Sabato Jr.,CA,26,R,0,VoteAntonio2018,10/11/18,CA,26,Antonio Sabato Jr.,R,FALSE,0.0021,31.47
+Judy Chu,CA,27,D,1,judychucampaign,10/11/18,CA,27,Judy Chu,D,TRUE,1,75.48
+Bryan Witt,CA,27,D,0,wittforprogress,10/11/18,CA,27,Bryan Witt,D,FALSE,0,24.52
+Adam Schiff,CA,28,D,1,AdamSchiffCA,10/11/18,CA,28,Adam Schiff,D,TRUE,1,81.53
+Johnny Nalbandian,CA,28,R,0,Johnny_Congress,10/11/18,CA,28,Johnny J. Nalbandian,R,FALSE,0,18.47
+Tony Cardenas,CA,29,D,1,CardenasforCA,10/11/18,CA,29,Tony CÃ¡rdenas,D,TRUE,1,84.75
+Benny Bernal,CA,29,R,0,BB4congress2018,10/11/18,CA,29,Benito Benny Bernal,R,FALSE,0,15.25
+Brad Sherman,CA,30,D,1,bradsherman,10/11/18,CA,30,Brad Sherman,D,TRUE,1,78.25
+Mark Reed,CA,30,R,0,markreed1776,10/11/18,CA,30,Mark S. Reed,R,FALSE,0,21.75
+Pete Aguilar,CA,31,D,1,AguilarCampaign,10/11/18,CA,31,Pete Aguilar,D,TRUE,0.9984,67.82
+Sean Flynn,CA,31,R,0,seanflynnca,10/11/18,CA,31,Sean Flynn,R,FALSE,0.0016,32.18
+Grace Napolitano,CA,32,D,1,grace4congress,10/11/18,CA,32,Grace Napolitano,D,TRUE,0.9999,75.83
+Joshua Scott,CA,32,R,0,joshuascottca32,10/11/18,CA,32,Joshua M. Scott,R,FALSE,0.0001,24.17
+Ted Lieu,CA,33,D,1,tedlieu,10/11/18,CA,33,Ted Lieu,D,TRUE,0.9999,76.98
+Kenneth Wright,CA,33,R,0,drwright4cong1,10/11/18,CA,33,Kenneth Weston Wright,R,FALSE,0.0001,23.02
+Jimmy Gomez,CA,34,D,1,jimmygomezca,10/11/18,CA,34,Jimmy Gomez,D,TRUE,0.9997,81.54
+Norma Torres,CA,35,D,1,NormaJTorres,10/11/18,CA,35,Norma Torres,D,TRUE,0.9999,76.71
+Christian Valienta,CA,35,R,0,CLVALIENTE4,10/11/18,CA,35,Christian Leonel Valiente,R,FALSE,0.0001,23.29
+Raul Ruiz,CA,36,D,1,Dr_RaulRuiz,10/11/18,CA,36,Raul Ruiz,D,TRUE,0.9861,62.79
+Kimberlin Brown Pelzer,CA,36,R,0,kimberlinbrown,10/11/18,CA,36,Kimberlin Brown Pelzer,R,FALSE,0.0139,37.21
+Karen Bass,CA,37,D,1,BarenBassTweets,10/11/18,CA,37,Karen Bass,D,TRUE,1,90.47
+Ron Bassilian,CA,37,R,0,ron4california,10/11/18,CA,37,Ron J. Bassilian,R,FALSE,0,9.53
+Linda Sanchez,CA,38,D,1,LindaTSanchez,10/11/18,CA,38,Linda SÃ¡nchez,D,TRUE,1,76.04
+Ryan Downing,CA,38,R,0,RyanDowning2018,10/11/18,CA,38,Ryan Downing,R,FALSE,0,23.96
+Gil Cisneros,CA,39,D,0,GilCisnerosCA,10/11/18,CA,39,Gil Cisneros,D,FALSE,0.3502,48.39
+Young Kim,CA,39,R,0,YoungKimCD39,10/11/18,CA,39,Young Kim,R,FALSE,0.6498,51.61
+Lucille Royal-Allard,CA,40,D,1,,10/11/18,CA,40,Lucille Roybal-Allard,D,TRUE,0.9994,77.1
+Mark Takano,CA,41,D,1,MarkTakano,10/11/18,CA,41,Mark Takano,D,TRUE,0.9994,71.11
+Aja Smith,CA,41,R,0,AjaforCongress,10/11/18,CA,41,Aja Smith,R,FALSE,0.0006,28.89
+Ken Calvert,CA,42,R,1,TeamCalvert,10/11/18,CA,42,Ken Calvert,R,TRUE,0.9624,60.23
+Julia Peacock,CA,42,D,0,Peacock4CA42,10/11/18,CA,42,Julia C. Peacock,D,FALSE,0.0376,39.77
+Maxine Waters,CA,43,D,1,maxinewaters,10/11/18,CA,43,Maxine Waters,D,TRUE,1,85.37
+Omar Navarro,CA,43,R,0,RealOmarNavaroo,10/11/18,CA,43,Omar Navarro,R,FALSE,0,14.63
+Nanette Barragan,CA,44,D,1,Nanetta4CA,10/11/18,CA,44,Nanette Diaz BarragÃ¡n,D,TRUE,1,72.64
+Mimi Walters,CA,45,R,1,MimiWaltersCA,10/11/18,CA,45,Mimi Walters,R,TRUE,0.356,48.59
+Katie Porter,CA,45,D,0,katieporteroc,10/11/18,CA,45,Katie Porter,D,FALSE,0.644,51.41
+Lou Correa,CA,46,D,1,loucorreaCA,10/11/18,CA,46,J. Luis Correa,D,TRUE,1,74.6
+Russ Lambert,CA,46,R,0,,10/11/18,CA,46,Russell Rene Lambert,R,FALSE,0,25.4
+Alan Lowenthal,CA,47,D,1,alanlowenthal,10/11/18,CA,47,Alan Lowenthal,D,TRUE,0.9998,72.81
+John Briscoe,CA,47,R,0,johnfbriscoe,10/11/18,CA,47,John Briscoe,R,FALSE,0.0002,27.19
+Dana Rohrabacher,CA,48,R,1,danarohrabacher,10/11/18,CA,48,Dana Rohrabacher,R,TRUE,0.5763,50.79
+Harley Rouda,CA,48,D,0,harleyrouda,10/11/18,CA,48,Harley Rouda,D,FALSE,0.4237,49.21
+Diane Harkey,CA,49,R,0,diane_harkey,10/11/18,CA,49,Diane L. Harkey,R,FALSE,0.0968,45.33
+Mike Levin,CA,49,D,0,MikeLevinCA,10/11/18,CA,49,Mike Levin,D,FALSE,0.9032,54.67
+Duncan Hunter,CA,50,R,1,,10/11/18,CA,50,Duncan D. Hunter,R,TRUE,0.8684,54.08
+Ammar Campa-Najjar,CA,50,D,0,ACampaNajjar,10/11/18,CA,50,Ammar Campa-Najjar,D,FALSE,0.1316,45.92
+Juan Vargas,CA,51,D,1,,10/11/18,CA,51,Juan Vargas,D,TRUE,1,79.54
+Juan Hidalgo Jr.,CA,51,R,0,Hidalgofor51st,10/11/18,CA,51,Juan M. Hidalgo Jr.,R,FALSE,0,20.46
+Scott Peters,CA,52,D,1,ScottPetersSD,10/11/18,CA,52,Scott Peters,D,TRUE,0.9983,68.74
+Omar Qudrat,CA,52,R,0,omarqudrat1,10/11/18,CA,52,Omar Qudrat,R,FALSE,0.0017,31.26
+Susan Davis,CA,53,D,1,,10/11/18,CA,53,Susan Davis,D,TRUE,0.9999,74.31
+Morgan Murtaugh,CA,53,R,0,morganmurtaugh,10/11/18,CA,53,Morgan Murtaugh,R,FALSE,0.0001,25.69
+Diana DeGette,CO,1,D,1,DeGette5280,10/11/18,CO,1,Diana DeGette,D,TRUE,1,78.04
+Casper Stockham,CO,1,R,0,Casper4Colorado,10/11/18,CO,1,Charles Casper Stockham,R,FALSE,0,17.67
+Jon Neguse,CO,2,D,0,joeneguse,10/11/18,CO,2,Joe Neguse,D,FALSE,0.994,63.15
+Peter Yu,CO,2,R,0,PeterYuCO,10/11/18,CO,2,Peter Yu,R,FALSE,0.006,32.21
+Scott Tipton,CO,3,R,1,scottrtipton,10/11/18,CO,3,Scott Tipton,R,TRUE,0.8985,55
+Diane Mitsch Bush,CO,3,D,0,RepDMB,10/11/18,CO,3,Diane Mitsch Bush,D,FALSE,0.1015,40.64
+Ken Buck,CO,4,R,1,buckforcolorado,10/11/18,CO,4,Ken Buck,R,TRUE,0.9863,62.98
+Karen McCormick,CO,4,D,0,McCormickForCO,10/11/18,CO,4,Karen McCormick,D,FALSE,0.0137,37.02
+Doug Lamborn,CO,5,R,1,DougLambornCD5,10/11/18,CO,5,Doug Lamborn,R,TRUE,0.989,63.82
+Stephany Rose Spaulding,CO,5,D,0,StephanyForCO,10/11/18,CO,5,Stephany Rose Spaulding,D,FALSE,0.011,36.18
+Mike Coffman,CO,6,R,1,Team_Coffman,10/11/18,CO,6,Mike Coffman,R,TRUE,0.1412,44.11
+Jason Crow,CO,6,D,0,JasonCrowCO6,10/11/18,CO,6,Jason Crow,D,FALSE,0.8588,52.31
+Ed Perlmutter,CO,7,D,1,Ed4Colorado,10/11/18,CO,7,Ed Perlmutter,D,TRUE,0.9968,64.76
+Mark Barrington,CO,7,R,0,,10/11/18,CO,7,Mark Barrington,R,FALSE,0.0032,31.33
+John Larson,CT,1,D,1,johnlarsonct,10/11/18,CT,1,John B. Larson,D,TRUE,0.9997,70.87
+Jennifer Nye,CT,1,R,0,JenniferTNye,10/11/18,CT,1,Jennifer Nye,R,FALSE,0.0003,26.33
+Joe Courtney,CT,2,D,1,joecourtneyct,10/11/18,CT,2,Joe Courtney,D,TRUE,0.995,63.66
+Dan Postemski,CT,2,R,0,,10/11/18,CT,1,Tom McCormick,GRE,FALSE,0,2.8
+Rosa DeLauro,CT,3,D,1,Rosa_DeLauro,10/11/18,CT,3,Rosa L. DeLauro,D,TRUE,0.9992,69.69
+Angel Cadena,CT,3,R,0,hiro4you2,,,,,,,,
+Jim Himes,CT,4,D,1,jahimes,10/11/18,CT,4,Jim Himes,D,TRUE,0.9993,69.99
+Harry Arora,CT,4,R,0,harryforct,10/11/18,CT,4,Harry Arora,R,FALSE,0.0007,30.01
+Jahana Hayes,CT,5,D,0,JahanaHayesCT,10/11/18,CT,5,Jahana Hayes,D,FALSE,0.9068,57.2
+Manny Santos,CT,5,R,0,santos4congress,10/11/18,CT,5,Manny Santos,R,FALSE,0.0932,42.8
+Lisa Blunt Rochester,DE,0,D,1,LisaBRochester,10/11/18,DE,1,Lisa Blunt Rochester,D,TRUE,0.9853,58.81
+Scott Walker,DE,0,R,0,,10/11/18,DE,1,Scott Walker,R,FALSE,0.0147,41.19
+Matt Gaetz,FL,1,R,1,mattgaetz,10/11/18,FL,1,Matt Gaetz,R,TRUE,0.9996,72.55
+Jennifer Zimmerman,FL,1,D,0,DrZ4Congress,10/11/18,FL,1,Jennifer Zimmerman,D,FALSE,0.0004,27.45
+Neal Dunn,FL,2,R,1,dunncampaign,10/11/18,FL,2,Neal Dunn,R,TRUE,0.9992,70.31
+Bob Rackleff,FL,2,D,0,bobrackleff,10/11/18,FL,2,Bob Rackleff,D,FALSE,0.0008,29.69
+Ted Yoho,FL,3,R,1,TedYoho,10/11/18,FL,3,Ted Yoho,R,TRUE,0.9695,60.7
+Yvonne Hayes Hinson,FL,3,D,0,YvonneHinsonFL,10/11/18,FL,3,Yvonne Hayes Hinson,D,FALSE,0.0305,39.3
+John Rutherford,FL,4,R,1,JRutherfordFL,10/11/18,FL,4,John Rutherford,R,TRUE,0.9977,65.94
+Ges Selmont,FL,4,D,0,vote4ges,10/11/18,FL,4,"George ""Ges"" Selmont",D,FALSE,0.0023,30.88
+Al Lawson,FL,5,D,1,AlLawsonJr,10/11/18,FL,5,Al Lawson,D,TRUE,0.9996,71.5
+Virginia Fuller,FL,5,R,0,Florida_CD5,10/11/18,FL,5,Virginia Fuller,R,FALSE,0.0004,28.5
+Mike Waltz,FL,6,R,0,michaelgwaltz,10/11/18,FL,6,Michael Waltz,R,FALSE,0.6919,51.89
+Nancy Soderberg,FL,6,D,0,nancysoderberg,10/11/18,FL,6,Nancy Soderberg,D,FALSE,0.3081,48.11
+Stephanie Murphy,FL,7,D,1,SMurphyCongress,10/11/18,FL,7,Stephanie Murphy,D,TRUE,0.827,54.26
+Mike Miller,FL,7,R,0,Mike_Miller_FL,10/11/18,FL,7,Mike Miller,R,FALSE,0.173,45.74
+Bill Posey,FL,8,R,1,,10/11/18,FL,8,Bill Posey,R,TRUE,0.981,62.32
+Sanjay Patel,FL,8,D,0,votesanjaypatel,10/11/18,FL,8,Sanjay Patel,D,FALSE,0.019,37.68
+Darren Soto,FL,9,D,1,DarrenSoto,10/11/18,FL,9,Darren Soto,D,TRUE,0.9064,55.45
+Wayne Liebnitzky,FL,9,R,0,LiebnitzkyWayne,10/11/18,FL,9,Wayne Liebnitzky,R,FALSE,0.0936,44.55
+Val Demings,FL,10,D,1,val_demings,10/11/18,FL,10,Val Demings,D,TRUE,1,100
+Dan Webster,FL,11,R,1,WebsterCongress,10/11/18,FL,11,Daniel Webster,R,TRUE,0.9971,67.45
+Dana Cottrell,FL,11,D,0,DanaforCongress,10/11/18,FL,11,Dana Cottrell,D,FALSE,0.0029,32.55
+Gus Bilirakis,FL,12,R,1,Bilirakis,10/11/18,FL,12,Gus M. Bilirakis,R,TRUE,0.955,56.28
+Chris Hunter,FL,12,D,0,ChrisHunterFL,10/11/18,FL,12,Chris Hunter,D,FALSE,0.045,40.86
+Charlie Crist,FL,13,D,1,charliecrist,10/11/18,FL,13,Charlie Crist,D,TRUE,0.9883,63.35
+George Buck,FL,13,R,0,gbuck_jr,10/11/18,FL,13,George Buck,R,FALSE,0.0117,36.65
+Kathy Castor,FL,14,D,1,KathyCastorFL,10/11/18,FL,14,Kathy Castor,D,TRUE,1,100
+Ross Spano,FL,15,R,0,RossSpano,10/11/18,FL,15,Ross Spano,R,FALSE,0.5861,50.8
+Kristen Carlson,FL,15,D,0,kristenforfl,10/11/18,FL,15,Kristen Carlson,D,FALSE,0.4139,49.2
+Vern Buchanan,FL,16,R,1,,10/11/18,FL,16,Vern Buchanan,R,TRUE,0.8599,53.66
+David Shapiro,FL,16,D,0,shapiro4FL16,10/11/18,FL,16,David Shapiro,D,FALSE,0.1401,46.34
+Greg Steube,FL,17,R,0,gregsteube,10/11/18,FL,17,Greg Steube,R,FALSE,0.9567,60.01
+Allen Ellison,FL,17,D,0,d17forellison,10/11/18,FL,17,April Freeman,D,FALSE,0.0433,39.99
+Brian Mast,FL,18,R,1,brianmastfl,10/11/18,FL,18,Brian Mast,R,TRUE,0.8011,53.26
+Lauren Baer,FL,18,D,0,LaurenBaer,10/11/18,FL,18,Lauren Baer,D,FALSE,0.1989,46.74
+Francis Rooney,FL,19,R,1,FrancisRooney,10/11/18,FL,19,Francis Rooney,R,TRUE,0.9633,58.28
+David Holden,FL,19,D,0,holden2018,10/11/18,FL,19,David Holden,D,FALSE,0.0367,41.72
+Alcee Hastings,FL,20,D,1,alcee4congress,10/11/18,FL,20,Alcee L. Hastings,D,TRUE,1,100
+Lois Frankel,FL,21,D,1,loisfrankel,10/11/18,FL,21,Lois Frankel,D,TRUE,1,100
+Ted Deutch,FL,22,D,1,tedforcongress,10/11/18,FL,22,Ted Deutch,D,TRUE,0.9962,66.71
+Nicolas Kimaz,FL,22,R,0,NicolasKimazFL,10/11/18,FL,22,Nicolas Kimaz,R,FALSE,0.0038,33.29
+Debbie Wasserman Schultz,FL,23,D,1,DWStweets,10/11/18,FL,23,Debbie Wasserman Schultz,D,TRUE,0.9994,69.57
+Joe Kaufman,FL,23,R,0,joekaufmanusa,10/11/18,FL,23,Joe Kaufman,R,FALSE,0.0006,27.39
+Frederica Wilson,FL,24,D,1,,10/11/18,FL,24,Frederica Wilson,D,TRUE,1,100
+Mario Diaz-Balart,FL,25,R,1,mariodbcamp,10/11/18,FL,25,Mario Diaz-Balart,R,TRUE,0.8041,54.23
+Mary Barzee Flores,FL,25,D,0,MBFforCongress,10/11/18,FL,25,Mary Barzee Flores,D,FALSE,0.1959,45.77
+Carlos Curbelo,FL,26,R,1,carloscurbelo,10/11/18,FL,26,Carlos Curbelo,R,TRUE,0.5641,50.65
+Debbie Mucarsel-Powell,FL,26,D,0,debbieforfl,10/11/18,FL,26,Debbie Mucarsel-Powell,D,FALSE,0.4359,49.35
+Maria Elvira Salazar,FL,27,R,0,MaElviraSalazar,10/11/18,FL,27,Maria Salazar,R,FALSE,0.3763,47.11
+Donna Shalala,FL,27,D,0,donnashalala,10/11/18,FL,27,Donna Shalala,D,FALSE,0.6236,50.13
+Buddy Carter,GA,1,R,1,Carter4Congress,10/11/18,GA,1,Buddy Carter,R,TRUE,0.9797,61.37
+Lisa Ring,GA,1,D,0,LisaRingGA01,10/11/18,GA,1,Lisa M. Ring,D,FALSE,0.0203,38.63
+Sanford Bishop,GA,2,D,1,,10/11/18,GA,2,Sanford D. Bishop Jr.,D,TRUE,0.996,65.96
+Herman West Jr,GA,2,R,0,RealHermanWest,10/11/18,GA,2,Herman West Jr.,R,FALSE,0.004,34.04
+Drew Ferguson,GA,3,R,1,DrewFergusonGA,10/11/18,GA,3,A. Drew Ferguson,R,TRUE,0.9993,69.72
+Chuck Enderlin,GA,3,D,0,Vote_Chuck,10/11/18,GA,3,Chuck Enderlin,D,FALSE,0.0007,30.28
+Hank Johnson,GA,4,D,1,ReElectHank,10/11/18,GA,4,Hank Johnson,D,TRUE,1,81.92
+Joe Profit,GA,4,R,0,JoeProfitGA_04,10/11/18,GA,4,Joe Profit,R,FALSE,0,18.08
+John Lewis,GA,5,D,1,,10/11/18,GA,5,John Lewis,D,TRUE,1,100
+Karen Handel,GA,6,R,1,karenhandel,10/11/18,GA,6,Karen C. Handel,R,TRUE,0.7951,53.83
+Lucy McBath,GA,6,D,0,lucywins2018,10/11/18,GA,6,Lucy McBath,D,FALSE,0.2049,46.17
+Rob Woodall,GA,7,R,1,votewoodall,10/11/18,GA,7,Rob Woodall,R,TRUE,0.8128,53.99
+Carolyn Bourdeaux,GA,7,D,0,Carolyn4GA7,10/11/18,GA,7,Carolyn Bourdeaux,D,FALSE,0.1872,46.01
+Austin Scott,GA,8,R,1,ScottforGA,10/11/18,GA,8,Austin Scott,R,TRUE,1,100
+Doug Collins,GA,9,R,1,Douglas_Collins,10/11/18,GA,9,Doug Collins,R,TRUE,1,81.38
+Josh McCall,GA,9,D,0,mccallforall,10/11/18,GA,9,Josh McCall,D,FALSE,0,18.62
+Jody Hice,GA,10,R,1,jodyhice,10/11/18,GA,10,Jody Hice,R,TRUE,0.9973,66.61
+Tabitha Johnson-Green,GA,10,D,0,TJG4GA,10/11/18,GA,10,Tabitha A. Johnson-Green,D,FALSE,0.0027,33.39
+Barry Loudermilk,GA,11,R,1,standwithbarry,10/11/18,GA,11,Barry Loudermilk,R,TRUE,0.9979,67.75
+Flynn Broady Jr.,GA,11,D,0,flynndbroadyjr,10/11/18,GA,11,Flynn D. Broady Jr.,D,FALSE,0.0021,32.25
+Rick Allen,GA,12,R,1,RickAllen,10/11/18,GA,12,Rick Allen,R,TRUE,0.9739,61.12
+Francys Johnson,GA,12,D,0,francysjohnson,10/11/18,GA,12,Francys Johnson,D,FALSE,0.0261,38.88
+David Scott,GA,13,D,1,electdavidscott,10/11/18,GA,13,David Scott,D,TRUE,1,78.05
+David Callahan,GA,13,R,0,DavidCa46446866,10/11/18,GA,13,David Callahan,R,FALSE,0,21.95
+Tom Graves,GA,14,R,1,TomGravesGA14,10/11/18,GA,14,Tom Graves,R,TRUE,0.9999,78.57
+Steve Foster,GA,14,D,0,,10/11/18,GA,14,Steven Lamar Foster,D,FALSE,0.0001,21.43
+Ed Case,HI,1,D,0,EdCaseHawaii,10/11/18,HI,1,Ed Case,D,FALSE,0.9991,69.8
+Cam Cavasso,HI,1,R,0,camcavasso,10/11/18,HI,1,Cam Cavasso,R,FALSE,0.0009,25.27
+Tulsi Gabbard,HI,2,D,1,tulsigabbard,10/11/18,HI,2,Tulsi Gabbard,D,TRUE,1,77.9
+Brian Evans,HI,2,R,0,becongress,10/11/18,HI,2,Brian Evans,R,FALSE,0,22.1
+Russ Fulcher,ID,1,R,0,russfulcher,10/11/18,ID,1,Russ Fulcher,R,FALSE,0.9303,52.64
+Christina McNeil,ID,1,D,0,McNeil4Congress,10/11/18,ID,1,Cristina McNeil,D,FALSE,0.0697,35.99
+Mike Simpson,ID,2,R,1,mikesimpson4id,10/11/18,ID,2,Mike Simpson,R,TRUE,0.9823,62.13
+Aaron Swisher,ID,2,D,0,SwisherforIdaho,10/11/18,ID,2,Aaron Swisher,D,FALSE,0.0177,37.87
+Bobby Rush,IL,1,D,1,,10/11/18,IL,1,Bobby L. Rush,D,TRUE,1,82.96
+Jimmie Lee Tillman II,IL,1,R,0,,10/11/18,IL,1,Jimmy Lee Tillman II,R,FALSE,0,13.56
+Robin Kelly,IL,2,D,1,robinlynnekelly,10/11/18,IL,2,Robin Kelly,D,TRUE,1,85.99
+David Merkle,IL,2,R,0,,10/11/18,IL,2,David Merkle,R,FALSE,0,14.01
+Dan Lipinski,IL,3,D,1,DLipinski03,10/11/18,IL,3,Daniel Lipinski,D,TRUE,0.9973,67.14
+Art Jones,IL,3,R,0,,10/11/18,IL,3,Arthur J. Jones,R,FALSE,0.0027,32.86
+"Jesus ""Chuy"" Garcia",IL,4,D,0,jesuschuygar,10/11/18,IL,4,"Jesus ""Chuy"" Garcia",D,FALSE,1,83.16
+Mark Lorch,IL,4,R,0,marklorch,10/11/18,IL,4,Mark Wayne Lorch,R,FALSE,0,16.84
+Mike Quigley,IL,5,D,1,QuigleyCampaign,10/11/18,IL,5,Mike Quigley,D,TRUE,1,79.98
+Tom Hanson,IL,5,R,0,,10/11/18,IL,5,Tom Hanson,R,FALSE,0,20.02
+Peter Roskam,IL,6,R,1,peterroskam,10/11/18,IL,6,Peter J. Roskam,R,TRUE,0.4933,50
+Sean Casten,IL,6,D,0,votecasten,10/11/18,IL,6,Sean Casten,D,FALSE,0.5067,50
+Danny K. Davis,IL,7,D,1,DannyKDavis,10/11/18,IL,7,Danny K. Davis,D,TRUE,1,91.68
+Craig Cameron,IL,7,R,0,ChiTownCraig1,10/11/18,IL,7,Craig Cameron,R,FALSE,0,8.32
+Raja Krishnamoorthi,IL,8,D,1,RajaforCongress,10/11/18,IL,8,Raja Krishnamoorthi,D,TRUE,0.9989,69.89
+"Jitendra ""JD"" Diganvker",IL,8,R,0,jd4congress,10/11/18,IL,8,"Jitendra ""JD"" Diganvker",R,FALSE,0.0011,30.11
+Jan Schakowsky,IL,9,D,1,,10/11/18,IL,9,Jan Schakowsky,D,TRUE,1,79.5
+John Elleson,IL,9,R,0,johnelleson,10/11/18,IL,9,John D. Elleson,R,FALSE,0,20.5
+Brad Schneider,IL,10,D,1,Schneider4IL10,10/11/18,IL,10,Bradley Schneider,D,TRUE,0.9995,72.6
+Doug Bennett,IL,10,R,0,DougRBennett,10/11/18,IL,10,Douglas R. Bennett,R,FALSE,0.0005,27.4
+Bill Foster,IL,11,D,1,Foster4Congress,10/11/18,IL,11,Bill Foster,D,TRUE,0.9993,70.6
+Nick Stella,IL,11,R,0,nickstellamd,10/11/18,IL,11,Nick Stella,R,FALSE,0.0007,29.4
+Mike Bost,IL,12,R,1,bostforcongress,10/11/18,IL,12,Mike Bost,R,TRUE,0.6728,50.29
+Brendan Kelly,IL,12,D,0,Kelly4SouthrnIL,10/11/18,IL,12,Brendan Kelly,D,FALSE,0.3271,46.7
+Rodney Davis,IL,13,R,1,electrodney,10/11/18,IL,13,Rodney Davis,R,TRUE,0.7528,52.59
+Betsy Dirksen Londrigan,IL,13,D,0,BetsyforIL,10/11/18,IL,13,Betsy Dirksen Londrigan,D,FALSE,0.2472,47.41
+Randy Hultgren,IL,14,R,1,RandyHultgren,10/11/18,IL,14,Randy Hultgren,R,TRUE,0.7348,52.36
+Lauren Underwood,IL,14,D,0,LUnderwood630,10/11/18,IL,14,Lauren Underwood,D,FALSE,0.2652,47.64
+John Shimkus,IL,15,R,1,JohnMShimkus,10/11/18,IL,15,John Shimkus,R,TRUE,0.9995,72.35
+Kevin Gaither,IL,15,D,0,Gaither4IL,10/11/18,IL,15,Kevin Gaither,D,FALSE,0.0005,27.65
+Adam Kinzinger,IL,16,R,1,AdamKinzinger,10/11/18,IL,16,Adam Kinzinger,R,TRUE,0.9328,58.5
+Sara Dady,IL,16,D,0,sara4congress,10/11/18,IL,16,Sara Dady,D,FALSE,0.0672,41.5
+Cheri Bustos,IL,17,D,1,cheribustos,10/11/18,IL,17,Cheri Bustos,D,TRUE,0.993,64.26
+Bill Fawell,IL,17,R,0,WmFawell,10/11/18,IL,17,William W. Fawell,R,FALSE,0.007,35.74
+Darin LaHood,IL,18,R,1,ElectLaHood,10/11/18,IL,18,Darin LaHood,R,TRUE,0.9941,64.73
+Junius Rodriguez,IL,18,D,0,18thIL,10/11/18,IL,18,Junius Rodriguez,D,FALSE,0.0059,35.27
+Peter Visclosky,IN,1,D,1,TeamVisclosky,10/11/18,IN,1,Peter Visclosky,D,TRUE,0.9989,69.5
+Mark Leyva,IN,1,R,0,,10/11/18,IN,1,Mark Leyva,R,FALSE,0.0011,30.5
+Jackie Walorski,IN,2,R,1,jackiewalorski,10/11/18,IN,2,Jackie Walorski,R,TRUE,0.9718,61.04
+Mel Hall,IN,2,D,0,melforcongress,10/11/18,IN,2,Mel Hall,D,FALSE,0.0282,38.96
+Jim Banks,IN,3,R,1,jim_banks,10/11/18,IN,3,Jim Banks,R,TRUE,0.9765,59.38
+Courtney Tritch,IN,3,D,0,CourtneyTritch,10/11/18,IN,3,Courtney Tritch,D,FALSE,0.0235,40.62
+Jim Baird,IN,4,R,0,electjimbaird,10/11/18,IN,4,Jim Baird,R,FALSE,0.9756,61.23
+Tobi Beck,IN,4,D,0,beckforindiana,10/11/18,IN,4,Tobi Beck,D,FALSE,0.0244,38.77
+Susan Brooks,IN,5,R,1,susanbrooksin,10/11/18,IN,5,Susan W. Brooks,R,TRUE,0.8901,56.52
+Dee Thornton,IN,5,D,0,votethornton,10/11/18,IN,5,Dee Thornton,D,FALSE,0.1099,43.48
+Greg Pence,IN,6,R,0,GregPenceIN,10/11/18,IN,6,Greg Pence,R,FALSE,0.9867,61.33
+Jeannine Lee Lake,IN,6,D,0,jeannineleelake,10/11/18,IN,6,Jeannine Lee Lake,D,FALSE,0.0133,34.78
+Andre Carson,IN,7,D,1,andre4congress,10/11/18,IN,7,AndrÃ© Carson,D,TRUE,0.9996,72.25
+Wayne Harmon,IN,7,R,0,Gunny_Harmon,10/11/18,IN,7,"Wayne ""Gunny"" Harmon",R,FALSE,0.0004,27.75
+Larry Bucshon,IN,8,R,1,DrLarryBucshon,10/11/18,IN,8,Larry Bucshon,R,TRUE,0.9949,65.42
+William Tanoos,IN,8,D,0,tanoos2018,10/11/18,IN,8,William Tanoos,D,FALSE,0.0051,34.58
+Trey Hollingsworth,IN,9,R,1,votefortrey,10/11/18,IN,9,Trey Hollingsworth,R,TRUE,0.9857,62.4
+Liz Watson,IN,9,D,0,LizforIndiana,10/11/18,IN,9,Liz Watson,D,FALSE,0.0143,37.6
+Rod Blum,IA,1,R,1,BlumforCongress,10/11/18,IA,1,Rod Blum,R,TRUE,0.1215,43.78
+Abby Finkenauer,IA,1,D,0,Abby4Iowa,10/11/18,IA,1,Abby Finkenauer,D,FALSE,0.8785,53.32
+Dave Loebsack,IA,2,D,1,DaveForIowa,10/11/18,IA,2,David Loebsack,D,TRUE,0.9647,56.17
+Christopher Peters,IA,2,R,0,DrPeters4Iowa,10/11/18,IA,2,Christopher Peters,R,FALSE,0.0353,40.08
+David Young,IA,3,R,1,youngforiowa,10/11/18,IA,3,David Young,R,TRUE,0.5714,48.59
+Cindy Axne,IA,3,D,0,Axne4Congress,10/11/18,IA,3,Cindy Axne,D,FALSE,0.4286,47.27
+Steve King,IA,4,R,1,SteveKingIA,10/11/18,IA,4,Steve King,R,TRUE,0.9246,54.18
+J.D. Scholten,IA,4,D,0,Scholten4Iowa,10/11/18,IA,4,J.D. Scholten,D,FALSE,0.0754,41.78
+"Roger ""Doc"" Marshall",KS,1,R,1,rogermarshallMD,10/11/18,KS,1,Roger Marshall,R,TRUE,0.9966,63.43
+Alan LaPolice,KS,1,D,0,LapoliceAlan,10/11/18,KS,1,Alan LaPolice,D,FALSE,0.0034,36.57
+Steve Waktins,KS,2,R,0,steve4kansas,10/11/18,KS,2,Steve Watkins,R,FALSE,0.52,47.98
+Paul Davis,KS,2,D,0,pauldavisks,10/11/18,KS,2,Paul Davis,D,FALSE,0.4799,47.61
+Kevin Yoder,KS,3,R,1,KevinYoder,10/11/18,KS,3,Kevin Yoder,R,TRUE,0.2405,45.86
+Sharice Davids,KS,3,D,0,sharicedavids,10/11/18,KS,3,Sharice Davids,D,FALSE,0.7595,51.15
+Ron Estes,KS,4,R,1,ronestesks,10/11/18,KS,4,Ron Estes,R,TRUE,0.9753,58.67
+James Thompson,KS,4,D,0,JamesThompsonKS,10/11/18,KS,4,James A. Thompson,D,FALSE,0.0247,41.33
+James Comer,KY,1,R,1,kycomer,10/11/18,KY,1,James Comer,R,TRUE,0.9991,70.51
+Paul Walker,KY,1,D,0,votepaulwalker,10/11/18,KY,1,Paul Walker,D,FALSE,0.0009,29.49
+Brett Guthrie,KY,2,R,1,brettguthrie,10/11/18,KY,2,Brett S. Guthrie,R,TRUE,0.9966,64.61
+Hank Linderman,KY,2,D,0,hank4ky,10/11/18,KY,2,Hank Linderman,D,FALSE,0.0034,32.34
+John Yarmuth,KY,3,D,1,,10/11/18,KY,3,John A. Yarmuth,D,TRUE,0.9997,70.16
+Vickie Glisson,KY,3,R,0,VickieYBG,10/11/18,KY,3,Vickie Glisson,R,FALSE,0.0003,26.91
+Thomas Massie,KY,4,R,1,ThomasMassieKY,10/11/18,KY,4,Thomas Massie,R,TRUE,0.9939,62.96
+Seth Hall,KY,4,D,0,HallCongress,10/11/18,KY,4,Seth Hall,D,FALSE,0.0061,34.02
+"Harold ""Hal"" Rogers",KY,5,R,1,,10/11/18,KY,5,Harold Rogers,R,TRUE,0.9999,77.27
+Ken Stepp,KY,5,D,0,ppetsnek,10/11/18,KY,5,Kenneth S. Stepp,D,FALSE,0.0001,22.73
+Andy Barr,KY,6,R,1,barrforcongress,10/11/18,KY,6,Andy Barr,R,TRUE,0.435,47.96
+Amy McGrath,KY,6,D,0,AmyMcGrathKY,10/11/18,KY,6,Amy McGrath,D,FALSE,0.565,49.09
+Steve Scalise,LA,1,R,1,geauxscalise,10/11/18,LA,1,Steve Scalise,R,TRUE,0.9997,69.99
+Tammy Savoie,LA,1,D,0,tammyforla,10/11/18,LA,1,Tammy M. Savoie,D,FALSE,0.0001,9.32
+Jim Francis,LA,1,D,0,JimFrancisLA01,10/11/18,LA,1,Jim Francis,D,FALSE,0.0001,10.88
+Cedric Richmond,LA,2,D,1,cedricrichmond,10/11/18,LA,2,Cedric Richmond,D,TRUE,1,84.73
+Clay Higgins,LA,3,R,1,CaptClayHiggins,10/11/18,LA,3,Clay Higgins,R,TRUE,0.9936,55.51
+Josh Guillory,LA,3,R,0,votejosh2018,10/11/18,LA,3,Josh Guillory,R,FALSE,0.0039,12.14
+Rob Anderson,LA,3,D,0,RobAnderson2018,10/11/18,LA,3,Rob Anderson,D,FALSE,0.0002,8.37
+Mimi Methvin,LA,3,D,0,votemimi,10/11/18,LA,3,Mimi Methvin,D,FALSE,0.0018,13.42
+Larry Rader,LA,3,D,0,votelarryrader,10/11/18,LA,3,Larry Rader,D,FALSE,0,4.18
+Verone Thomas,LA,3,D,0,Verone4Congress,10/11/18,LA,3,Verone Thomas,D,FALSE,0,2.27
+Mike Johnson,LA,4,R,1,mikejohnson,10/11/18,LA,4,Mike Johnson,R,TRUE,0.9796,60.04
+Ryan Trundle,LA,4,D,0,ryantrundleCD4,10/11/18,LA,4,Ryan Trundle,D,FALSE,0.0203,37.2
+Ralph Abraham,LA,5,R,1,abraham_ralph,10/11/18,LA,5,Ralph Abraham,R,TRUE,0.9934,62.38
+Jessee Fleenor,LA,5,D,0,BerryHillFarm,10/11/18,LA,5,Jessee Carlton Fleenor,D,FALSE,0.0066,34.47
+Garret Graves,LA,6,R,1,garretgraves,10/11/18,LA,6,Garrett Graves,R,TRUE,0.9988,65.86
+Justin Dewitt,LA,6,D,0,Dewitt4Congress,10/11/18,LA,6,Justin DeWitt,D,FALSE,0.0009,18.81
+Andie Saizan,LA,6,D,0,andiesaizan,10/11/18,LA,6,Andie Saizan,D,FALSE,0.0002,12.81
+Chellie Pingree,ME,1,D,1,PingreeforME,10/11/18,ME,1,Chellie Pingree,D,TRUE,0.9991,69.22
+Mark Holbrook,ME,1,R,0,markholbrook_me,10/11/18,ME,1,Mark Holbrook,R,FALSE,0.0009,27.34
+Bruce Poliquin,ME,2,R,1,brucepoliquin,10/11/18,ME,2,Bruce Poliquin,R,TRUE,0.6373,49.88
+Jared Golden,ME,2,D,0,golden4congress,10/11/18,ME,2,Jared Golden,D,FALSE,0.3627,46.88
+Andy Harris,MD,1,R,1,Harris4Congress,10/11/18,MD,1,Andy Harris,R,TRUE,0.9924,63.31
+Jesse Colvin,MD,1,D,0,Colvin4Congress,10/11/18,MD,1,Jesse Colvin,D,FALSE,0.0076,33.45
+C.A. Dutch Ruppersberger,MD,2,D,1,godutchformd,10/11/18,MD,2,C. A. Dutch Ruppersberger,D,TRUE,0.9997,71.21
+Liz Matory,MD,2,R,0,LizforCongress,10/11/18,MD,2,Liz Matory,R,FALSE,0.0003,25.25
+John Sarbanes,MD,3,D,1,JohnSarbanes,10/11/18,MD,3,John P. Sarbanes,D,TRUE,0.9997,72.87
+Charles Anthony,MD,3,R,0,RedMaryland,10/11/18,MD,3,Charles Anthony,R,FALSE,0.0003,23.95
+Anthony Brown,MD,4,D,1,AnthonyBrownMD4,10/11/18,MD,4,Anthony Brown,D,TRUE,1,83.5
+George McDemott,MD,4,R,0,GeorgeMcDermot3,10/11/18,MD,4,George McDermott,R,FALSE,0,13.02
+Steny Hoyer,MD,5,D,1,StenyHoyer,10/11/18,MD,5,Steny H. Hoyer,D,TRUE,0.9999,74.57
+Bill Devine,MD,5,R,0,studlydevine,10/11/18,MD,5,William A. Devine III,R,FALSE,0.0001,21.82
+David Trone,MD,6,D,0,davidjtrone,10/11/18,MD,6,David Trone,D,FALSE,0.9824,59.94
+Amie Hoeber,MD,6,R,0,amieformaryland,10/11/18,MD,6,Amie Hoeber,R,FALSE,0.0176,36.08
+Elijah Cummings,MD,7,D,1,reelectcummings,10/11/18,MD,7,Elijah Cummings,D,TRUE,1,82.86
+Richmond Davis,MD,7,R,0,davis4maryland,10/11/18,MD,7,Richmond Davis,R,FALSE,0,13.69
+Jamie Raskin,MD,8,D,1,jamie_raskin,10/11/18,MD,8,Jamie Raskin,D,TRUE,0.9999,74.34
+John Walsh,MD,8,R,0,,10/11/18,MD,8,John Walsh,R,FALSE,0.0001,22.44
+Richard Neal,MA,1,D,1,,10/11/18,MA,1,Richard E. Neal,D,TRUE,1,100
+Jim McGovern,MA,2,D,1,McGovernMA,10/11/18,MA,2,James McGovern,D,TRUE,0.9999,74.01
+Tracy Lovvorn,MA,2,R,0,Tracy4Congress,10/11/18,MA,2,Tracy Lovvorn,R,FALSE,0.0001,25.99
+Lori Trahan,MA,3,D,0,loriuscongress,10/11/18,MA,3,Lori Trahan,D,FALSE,0.9971,66.16
+Rick Green,MA,3,R,0,RickGreenMA,10/11/18,MA,3,Rick Green,R,FALSE,0.0029,29.99
+Joe Kennedy III,MA,4,D,1,joekennedy,10/11/18,MA,4,Joseph P. Kennedy III,D,TRUE,1,100
+Katherine Clark,MA,5,D,1,KatherineClark,10/11/18,MA,5,Katherine Clark,D,TRUE,1,81.99
+John Hugo,MA,5,R,0,HugoCongress,10/11/18,MA,5,John Hugo,R,FALSE,0,18.01
+Seth Moulton,MA,6,D,1,sethmoulton,10/11/18,MA,6,Seth Moulton,D,TRUE,0.9995,70.48
+Joe Schneider,MA,6,R,0,joeschneiderma,10/11/18,MA,6,Joseph S. Schneider,R,FALSE,0.0005,26.27
+Ayanna Pressley,MA,7,D,0,AyannaPressley,10/11/18,MA,7,Ayanna Pressley,D,FALSE,1,100
+Stephen Lynch,MA,8,D,1,replynch,10/11/18,MA,8,Stephen F. Lynch,D,TRUE,1,100
+Bill Keating,MA,9,D,1,WilliamKeating,10/11/18,MA,9,William Keating,D,TRUE,0.9991,70.4
+Peter Tedeschi,MA,9,R,0,PDTedeschi,10/11/18,MA,9,Peter D. Tedeschi,R,FALSE,0.0009,29.6
+Jack Bergman,MI,1,R,1,JackBergman_MI1,10/11/18,MI,1,Jack Bergman,R,TRUE,0.9389,59.12
+Matt Morgan,MI,1,D,0,MorganforMI,10/11/18,MI,1,Matt Morgan,D,FALSE,0.0611,40.88
+Bill Huizenga,MI,2,R,1,billhuizenga,10/11/18,MI,2,Bill Huizenga,R,TRUE,0.9385,57.05
+Rob Davidson,MI,2,D,0,VoteRobDavidson,10/11/18,MI,2,Rob Davidson,D,FALSE,0.0615,40
+Justin Amash,MI,3,R,1,teamamash,10/11/18,MI,3,Justin Amash,R,TRUE,0.7928,52.96
+Cathy Albro,MI,3,D,0,NotPoliticians,10/11/18,MI,3,Cathy Albro,D,FALSE,0.2072,44.16
+John Moolenaar,MI,4,R,1,JohnMoolenaar,10/11/18,MI,4,John Moolenaar,R,TRUE,0.96,60.21
+Jerry Hilliard,MI,4,D,0,HilliardforCong,10/11/18,MI,4,Jerry Hilliard,D,FALSE,0.04,39.79
+Dan Kildee,MI,5,D,1,dankildee,10/11/18,MI,5,Daniel Kildee,D,TRUE,0.9974,66.34
+Travis Wines,MI,5,R,0,TWines4congress,10/11/18,MI,5,Travis Wines,R,FALSE,0.0026,30.78
+Fred Upton,MI,6,R,1,uptonforallofus,10/11/18,MI,6,Fred Upton,R,TRUE,0.7674,51.54
+Matt Longjohn,MI,6,D,0,Mattlongjohn,10/11/18,MI,6,Matt Longjohn,D,FALSE,0.2325,45.83
+Tim Walberg,MI,7,R,1,timwalberg,10/11/18,MI,7,Tim Walberg,R,TRUE,0.7818,53.71
+Gretchen Driskell,MI,7,D,0,gdriskell,10/11/18,MI,7,Gretchen Driskell,D,FALSE,0.2182,46.29
+Mike Bishop,MI,8,R,1,mikebishopmi,10/11/18,MI,8,Mike Bishop,R,TRUE,0.5561,48.98
+Elissa Slotkin,MI,8,D,0,ElissaSlotkin,10/11/18,MI,8,Elissa Slotkin,D,FALSE,0.4439,47.97
+Andy Levin,MI,9,D,0,andy_levin,10/11/18,MI,9,Andy Levin,D,FALSE,0.9743,59.33
+Candius Stearns,MI,9,R,0,CandiusStearns,10/11/18,MI,9,Candius Stearns,R,FALSE,0.0257,36.91
+Paul Mitchell,MI,10,R,1,PaulMitchell4us,10/11/18,MI,10,Paul Mitchell,R,TRUE,0.9863,61.59
+Kimberly Bizon,MI,10,D,0,electbizon2018,10/11/18,MI,10,Kimberly Bizon,D,FALSE,0.0137,34.99
+Lena Epstein,MI,11,R,0,lenaepstein,10/11/18,MI,11,Lena Epstein,R,FALSE,0.2066,44.64
+Haley Steven,MI,11,D,0,HaleyLive,10/11/18,MI,11,Haley Stevens,D,FALSE,0.7934,51.19
+Debbie Dingell,MI,12,D,1,debdingell,10/11/18,MI,12,Debbie Dingell,D,TRUE,0.9999,73.71
+Jeff Jones,MI,12,R,0,VoteJeff_Jones,10/11/18,MI,12,Jeff Jones,R,FALSE,0.0001,22.88
+Rashida Tlaib,MI,13,D,0,rashidatlaib,10/11/18,MI,13,Rashida Tlaib,D,FALSE,1,85.28
+Brenda Lawrence,MI,14,D,1,mayorlawrence,10/11/18,MI,14,Brenda Lawrence,D,TRUE,1,85.85
+Marc Herchfus,MI,14,R,0,,10/11/18,MI,14,Marc S. Herschfus,R,FALSE,0,10.79
+Dan Feehan,MN,1,D,0,danielfeehan,10/11/18,MN,1,Dan Feehan,D,FALSE,0.3482,48.16
+Jim Hagedorn,MN,1,R,0,JimHagedornMN,10/11/18,MN,1,Jim Hagedorn,R,FALSE,0.6518,51.84
+Jason Lewis,MN,2,R,1,Jason2CD,10/11/18,MN,2,Jason Lewis,R,TRUE,0.1882,46.92
+Angie Craig,MN,2,D,0,angiecraigmn,10/11/18,MN,2,Angie Craig,D,FALSE,0.8118,53.08
+Erik Paulsen,MN,3,R,1,Erik_Paulsen,10/11/18,MN,3,Erik Paulsen,R,TRUE,0.1479,46.27
+Dean Phillips,MN,3,D,0,deanbphillips,10/11/18,MN,3,Dean Phillips,D,FALSE,0.8521,53.73
+Betty McCollum,MN,4,D,1,BettyMcCollum04,10/11/18,MN,4,Betty McCollum,D,TRUE,0.9999,74.5
+Greg Ryan,MN,4,R,0,GregTRyan4US,10/11/18,MN,4,Greg Ryan,R,FALSE,0.0001,21.81
+Ilhan Omar,MN,5,D,0,IlhanMN,10/11/18,MN,5,Ilhan Omar,D,FALSE,1,80.05
+Jennifer Zielinski,MN,5,R,0,jen4congress,10/11/18,MN,5,Jennifer Zielinski,R,FALSE,0,19.95
+Tom Emmer,MN,6,R,1,tomemmer,10/11/18,MN,6,Tom Emmer,R,TRUE,0.9765,61.31
+Ian Todd,MN,6,D,0,IanToddforMN,10/11/18,MN,6,Ian Todd,D,FALSE,0.0235,38.69
+Collin Peterson,MN,7,D,1,collinpeterson,10/11/18,MN,7,Collin C. Peterson,D,TRUE,0.7033,52.71
+Dave Hughes,MN,7,R,0,DHughesCongress,10/11/18,MN,7,Dave Hughes,R,FALSE,0.2967,47.29
+Joe Radinovich,MN,8,D,1,joeradinovich,10/11/18,MN,8,Joe Radinovich,D,FALSE,0.5194,48.18
+Pete Stauber,MN,8,R,0,PeteStauber,10/11/18,MN,8,Pete Stauber,R,FALSE,0.4805,47.81
+Trent Kelly,MS,1,R,1,KellyforMS01,10/11/18,MS,1,Trent Kelly,R,TRUE,0.9875,59.6
+Randy Wadkins,MS,1,D,0,wadkins2018,10/11/18,MS,1,Randy Wadkins,D,FALSE,0.0125,37.52
+Bennie Thompson,MS,2,D,1,benniegthompson,10/11/18,MS,2,Bennie G. Thompson,D,TRUE,0.9965,62.99
+Michael Guest,MS,3,R,0,GuestCongress,10/11/18,MS,3,Michael Guest,R,FALSE,0.9461,56.24
+Michael Ted Evans,MS,3,D,0,repevans45,10/11/18,MS,3,Michael Ted Evans,D,FALSE,0.0539,40.26
+Steven Palazzo,MS,4,R,1,stevenpalazzo,10/11/18,MS,4,Steven Palazzo,R,TRUE,0.9756,58.53
+Jeramey Anderson,MS,4,D,0,jerameyforms,10/11/18,MS,4,Jeramey Anderson,D,FALSE,0.0244,38.84
+Lacy Clay,MO,1,D,1,LacyClayMO1,10/11/18,MO,1,"William ""Lacy"" Clay Jr.",D,TRUE,1,84.29
+Robert Vroman,MO,1,R,0,vroman_robert,10/11/18,MO,1,Robert Vroman,R,FALSE,0,12.23
+Ann Wagner,MO,2,R,1,AnnLWagner,10/11/18,MO,2,Ann Wagner,R,TRUE,0.8045,51.77
+Cort VanOstran,MO,2,D,0,cortvo,10/11/18,MO,2,Cort VanOstran,D,FALSE,0.1955,45
+Blaine Luetkemeyer,MO,3,R,1,luetkemeyerb,10/11/18,MO,3,Blaine Luetkemeyer,R,TRUE,0.9987,67.46
+Katy Geppert,MO,3,D,0,KatyForCongress,10/11/18,MO,3,Katy Geppert,D,FALSE,0.0013,29.23
+Vicky Hartzler,MO,4,R,1,VickyH4Congress,10/11/18,MO,4,Vicky Hartzler,R,TRUE,0.9987,66.64
+Renee Hoagenson,MO,4,D,0,reneehoagenson,10/11/18,MO,4,Renee Hoagenson,D,FALSE,0.0013,30.08
+Emanuel Cleaver,MO,5,D,1,Vote4Cleaver,10/11/18,MO,5,Emanuel Cleaver,D,TRUE,0.9984,66.79
+Jacob Turk,MO,5,R,0,JacobTurk,10/11/18,MO,5,Jacob Turk,R,FALSE,0.0016,29.43
+Sam Graves,MO,6,R,1,,10/11/18,MO,6,Sam Graves,R,TRUE,0.9963,64.45
+Henry Martin,MO,6,D,0,hmforcongress,10/11/18,MO,6,Henry Robert Martin,D,FALSE,0.0037,32.31
+Billy Long,MO,7,R,1,auctnr1,10/11/18,MO,7,Billy Long,R,TRUE,0.9999,71.85
+Jamie Schoolcraft,MO,7,D,0,Schoolcraft4Mo,10/11/18,MO,7,Jamie Daniel Schoolcraft,D,FALSE,0.0001,24.76
+Jason Smith,MO,8,R,1,JasonSmithMO,10/11/18,MO,8,Jason Smith,R,TRUE,0.9998,74.06
+Kathryn Ellis,MO,8,D,0,ellis4missouri,10/11/18,MO,8,Kathy Ellis,D,FALSE,0.0001,22.5
+Greg Gianforte,MT,0,R,1,gregformontana,10/11/18,MT,1,Greg Gianforte,R,TRUE,0.6119,49.42
+Kathleen Williams,MT,0,D,0,WilliamsForMT,10/11/18,MT,1,Kathleen Williams,D,FALSE,0.388,47.27
+Jeff Fortenberry,NE,1,R,1,JeffFortenberry,10/11/18,NE,1,Jeff Fortenberry,R,TRUE,0.9577,59.65
+Jessica McClure,NE,1,D,0,clure4congress,10/11/18,NE,1,Jessica McClure,D,FALSE,0.0423,40.35
+Don Bacon,NE,2,R,1,donjbacon,10/11/18,NE,2,Don Bacon,R,TRUE,0.8253,53.51
+Kara Eastman,NE,2,D,0,karaforcongress,10/11/18,NE,2,Kara Eastman,D,FALSE,0.1747,46.49
+Adrian Smith,NE,3,R,1,,10/11/18,NE,3,Adrian Smith,R,TRUE,0.9999,75.3
+Paul Theobald,NE,3,D,0,Paul_Theobald_,10/11/18,NE,3,Paul Theobald,D,FALSE,0.0001,24.7
+Dina Titus,NV,1,D,1,dinatitus,10/11/18,NV,1,Dina Titus,D,TRUE,0.9995,70.65
+Joyce Bentley,NV,1,R,0,joycebentleycd1,10/11/18,NV,1,Joyce Bentley,R,FALSE,0.0005,25.7
+Mark Amodei,NV,2,R,1,amodeifornevada,10/11/18,NV,2,Mark Amodei,R,TRUE,0.9442,58.81
+Clint Koble,NV,2,D,0,clintkoble,10/11/18,NV,2,Clint Koble,D,FALSE,0.0558,41.19
+Susie Lee,NV,3,D,0,SusieLeeNV,10/11/18,NV,3,Susie Lee,D,FALSE,0.6618,49.59
+Danny Tarkanian,NV,3,R,0,dannytarkanian,10/11/18,NV,3,Danny Tarkanian,R,FALSE,0.3382,45.2
+Steven Horsford,NV,4,D,0,StevenHorsford,10/11/18,NV,4,Steven A. Horsford,D,FALSE,0.7575,50.48
+Cresent Hardy,NV,4,R,0,cresenthardy,10/11/18,NV,4,Cresent Hardy,R,FALSE,0.2425,44.45
+Chris Pappas,NH,1,D,0,ChrisPappasNH,10/11/18,NH,1,Chris Pappas,D,FALSE,0.8436,52.1
+Eddie Edwards,NH,1,R,0,EddieEdwardsNH,10/11/18,NH,1,Eddie Edwards,R,FALSE,0.1564,43.48
+Annie Kuster,NH,2,D,1,AnnMcLaneKuster,10/11/18,NH,2,Ann Kuster,D,TRUE,0.9802,57.62
+Steve Negron,NH,2,R,0,negron4congress,10/11/18,NH,2,Steven Negron,R,FALSE,0.0198,38.29
+Donald Norcross,NJ,1,D,1,donnorcross4nj,10/11/18,NJ,1,Donald Norcross,D,TRUE,0.9998,72.64
+Paul Dilks,NJ,1,R,0,,10/11/18,NJ,1,Paul E. Dilks,R,FALSE,0.0002,23.9
+Seth Grossman,NJ,2,R,0,Grossman4NJ,10/11/18,NJ,2,Seth Grossman,R,FALSE,0.0401,39.44
+Jeff Van Drew,NJ,2,D,0,VanDrew4NJ,10/11/18,NJ,2,Jeff Van Drew,D,FALSE,0.9599,56.38
+Tom MacArthur,NJ,3,R,1,tmac4congress,10/11/18,NJ,3,Tom MacArthur,R,TRUE,0.2332,45.89
+Andy Kim,NJ,3,D,0,andykimnj,10/11/18,NJ,3,Andy Kim,D,FALSE,0.7668,51.59
+Chris Smith,NJ,4,R,1,,10/11/18,NJ,4,Chris Smith,R,TRUE,0.9047,55.24
+Josh Welle,NJ,4,D,0,JoshuaWelle,10/11/18,NJ,4,Joshua Welle,D,FALSE,0.0953,40.77
+Josh Gottheimer,NJ,5,D,1,JoshGottheimer,10/11/18,NJ,5,Josh Gottheimer,D,TRUE,0.8094,52.74
+John McCann,NJ,5,R,0,realJohnMcCann,10/11/18,NJ,5,John J. McCann Jr.,R,FALSE,0.1906,43.85
+Frank Pallone,NJ,6,D,1,pallonefornj,10/11/18,NJ,6,Frank Pallone Jr.,D,TRUE,0.9994,69.94
+Rich Pezzullo,NJ,6,R,0,RichPezzulloNJ,10/11/18,NJ,6,Richard J. Pezzullo,R,FALSE,0.0006,30.06
+Leonard Lance,NJ,7,R,1,LeonardLanceNJ7,10/11/18,NJ,7,Leonard Lance,R,TRUE,0.445,48.05
+Tom Malinowski,NJ,7,D,0,malinowski,10/11/18,NJ,7,Tom Malinowski,D,FALSE,0.555,49.12
+Albio Sires,NJ,8,D,1,AlbioSiresNJ,10/11/18,NJ,8,Albio Sires,D,TRUE,1,82.54
+John Muniz,NJ,8,R,0,,10/11/18,NJ,8,John R. Muniz,R,FALSE,0,14.05
+Bill Pascrell,NJ,9,D,1,pascrellfornj,10/11/18,NJ,9,Bill Pascrell Jr.,D,TRUE,0.9999,74.6
+Eric Fisher,NJ,9,R,0,,10/11/18,NJ,9,Eric P. Fisher,R,FALSE,0.0001,22.56
+Donald Payne Jr.,NJ,10,D,1,donaldpaynejr,10/11/18,NJ,10,Donald Payne Jr.,D,TRUE,1,88.99
+Agha Khan,NJ,10,R,0,,10/11/18,NJ,10,Agha Khan,R,FALSE,0,7.03
+Jay Webber,NJ,11,R,0,JayWebberNJ,10/11/18,NJ,11,Jay Webber,R,FALSE,0.3006,46.16
+Mikie Sherrill,NJ,11,D,0,MikieSherrill,10/11/18,NJ,11,Mikie Sherrill,D,FALSE,0.6994,50.63
+Bonnie Watson-Coleman,NJ,12,D,1,bonnie4congress,10/11/18,NJ,12,Bonnie Watson Coleman,D,TRUE,0.9999,76.97
+Daryl Kipnis,NJ,12,R,0,darylkipnisesq,10/11/18,NJ,12,Daryl Kipnis,R,FALSE,0.0001,23.03
+Deb Haaland,NM,1,D,0,Deb4CongressNM,10/11/18,NM,1,Debra A. Haaland,D,FALSE,0.895,52.72
+Janice Arnold-Jones,NM,1,R,0,LadySunshineNM,10/11/18,NM,1,Janice E. Arnold-Jones,R,FALSE,0.105,42.4
+Yvette Herrell,NM,2,R,0,yvette4congress,10/11/18,NM,2,Yvette Herrell,R,FALSE,0.5548,50.57
+Xochitl Torres-Small,NM,2,D,0,XochforCongress,10/11/18,NM,2,Xochitl Torres Small,D,FALSE,0.4452,49.43
+Ben Ray Lujan,NM,3,D,1,peopleforben,10/11/18,NM,3,Ben R. Lujan,D,TRUE,0.9951,60.78
+Steve McFall,NM,3,R,0,jstevemcfall,10/11/18,NM,3,Jerald Steve McFall,R,FALSE,0.0049,35.02
+Lee Zeldin,NY,1,R,1,leezeldin,10/11/18,NY,1,Lee Zeldin,R,TRUE,0.8083,51.97
+Perry Gershon,NY,1,D,0,perrygershon,10/11/18,NY,1,Perry Gershon,D,FALSE,0.1917,45.14
+Pete King,NY,2,R,1,congpeteking,10/11/18,NY,2,Pete King,R,TRUE,0.7588,53.9
+Liuba Grechen Shirley,NY,2,D,0,liuba4congress,10/11/18,NY,2,Liuba Grechen Shirley,D,FALSE,0.2412,46.1
+Tom Suozzi,NY,3,D,1,tom_suozzi,10/11/18,NY,3,Thomas Suozzi,D,TRUE,0.989,64.14
+Dan DeBono,NY,3,R,0,DanDeBono,10/11/18,NY,3,Dan DeBono,R,FALSE,0.011,35.86
+Kathleen Rice,NY,4,D,1,kathleenrice,10/11/18,NY,4,Kathleen Rice,D,TRUE,0.996,66.46
+Ameer Benno,NY,4,R,0,abenno,10/11/18,NY,4,Ameer Benno,R,FALSE,0.004,33.54
+Gregory Meerks,NY,5,D,1,,10/11/18,NY,5,Gregory W. Meeks,D,TRUE,1,100
+Grace Meng,NY,6,D,1,grace4ny,10/11/18,NY,6,Grace Meng,D,TRUE,0.9999,84
+Nydia Velazquez,NY,7,D,1,ReElectNydia,10/11/18,NY,7,Nydia M. VelÃ¡zquez,D,TRUE,1,89.47
+Hakeem Jeffries,NY,8,D,1,TeamJeffries,10/11/18,NY,8,Hakeem Jeffries,D,TRUE,1,89
+Yvette Clarke,NY,9,D,1,VoteYvette,10/11/18,NY,9,Yvette D. Clarke,D,TRUE,1,88.06
+Lutchi Gayot,NY,9,R,0,LutchiGayot,10/11/18,NY,9,Lutchi Gayot,R,FALSE,0,8.65
+Jerrold Nadler,NY,10,D,1,JerryNadler,10/11/18,NY,10,Jerrold Nadler,D,TRUE,1,85.43
+Naomi Levin,NY,10,R,0,NaomiLevinNY,10/11/18,NY,10,Naomi Levin,R,FALSE,0,14.57
+Dan Donovan,NY,11,R,1,DanDonovan_NY,10/11/18,NY,11,Daniel Donovan,R,TRUE,0.7684,52.84
+Max Rose,NY,11,D,0,MaxRose4NY,10/11/18,NY,11,Max N. Rose,D,FALSE,0.2316,44.43
+Carolyn Maloney,NY,12,D,1,CarolynBMaloney,10/11/18,NY,12,Carolyn Maloney,D,TRUE,1,86.99
+Eliot Rabin,NY,12,R,0,EliotRabinForUs,10/11/18,NY,12,Eliot Rabin,R,FALSE,0,9.77
+Adriano Espaillat,NY,13,D,1,espaillatny,10/11/18,NY,13,Adriano Espaillat,D,TRUE,1,94.98
+Jineea Butler,NY,13,R,0,flygirlladyjay,10/11/18,NY,13,Jineea Butler,R,FALSE,0,5.02
+Alexandria Ocasio-Cortez,NY,14,D,0,Ocasio2018,10/11/18,NY,14,Alexandria Ocasio-Cortez,D,FALSE,1,79.15
+Anthony Pappas,NY,14,R,0,,10/11/18,NY,14,Anthony Pappas,R,FALSE,0,17.13
+Jose Serrano,NY,15,D,1,serranocongress,10/11/18,NY,15,JosÃ© E. Serrano,D,TRUE,1,95.66
+Eliot Engel,NY,16,D,1,,10/11/18,NY,16,Eliot Engel,D,TRUE,1,100
+Nita Lowey,NY,17,D,1,NitaLowey,10/11/18,NY,17,Nita Lowey,D,TRUE,0.9998,80.82
+Sean Patrick Maloney,NY,18,D,1,spmaloney,10/11/18,NY,18,Sean Patrick Maloney,D,TRUE,0.9809,62.05
+James O'Donnell,NY,18,R,0,JamesODonnellNY,10/11/18,NY,18,James O'Donnell,R,FALSE,0.0191,37.95
+John Faso,NY,19,R,1,JohnFasoNy,10/11/18,NY,19,John Faso,R,TRUE,0.5253,48.8
+Antonio Delgado,NY,19,D,0,DelgadoforNY19,10/11/18,NY,19,Antonio Delgado,D,FALSE,0.4747,48.28
+Paul Tonko,NY,29,D,1,PaulTonko,10/11/18,NY,20,Paul D. Tonko,D,TRUE,0.9989,69.65
+Joe Vitollo,NY,20,R,0,JoeVitollo,10/11/18,NY,20,Francis Vitollo,R,FALSE,0.0011,30.35
+Elise Stefanik,NY,21,R,1,EliseStefanik,10/11/18,NY,21,Elise Stefanik,R,TRUE,0.7545,52.58
+Tedra Cobb,NY,21,D,0,tedracobb,10/11/18,NY,21,Tedra L. Cobb,D,FALSE,0.2455,44.66
+Claudia Tenney,NY,22,R,1,claudiatenney,10/11/18,NY,22,Claudia Tenney,R,TRUE,0.5209,50.25
+Anthony Brindisi,NY,22,D,0,abrindisi,10/11/18,NY,22,Anthony Brindisi,D,FALSE,0.4791,49.75
+Tom Reed,NY,23,R,1,TomReedCongress,10/11/18,NY,23,Tom Reed,R,TRUE,0.8395,55.52
+Tracy Mitrano,NY,23,D,0,MitranoforNY23,10/11/18,NY,23,Tracy Mitrano,D,FALSE,0.1605,44.48
+John Katko,NY,24,R,1,,10/11/18,NY,24,John Katko,R,TRUE,0.7725,52.99
+Dana Balter,NY,24,D,0,dana_balter,10/11/18,NY,24,Dana Balter,D,FALSE,0.2275,47.01
+Joe Morelle,NY,25,D,0,votemorelle,10/11/18,NY,25,Joseph D. Morelle,D,FALSE,0.989,60.47
+Jim Maxwell,NY,25,R,0,drjimmaxwell,10/11/18,NY,25,Jim Maxwell,R,FALSE,0.011,39.53
+Brian Higgins,NY,26,D,1,higgins4wny,10/11/18,NY,26,Brian Higgins,D,TRUE,0.9997,72.27
+Renee Zeno,NY,26,R,0,ZenoforCongress,10/11/18,NY,26,Renee Zeno,R,FALSE,0.0003,27.73
+Chris Collins,NY,27,R,1,CollinsNY27,10/11/18,NY,27,Chris Collins,R,TRUE,0.8336,52.96
+Nate McMurray,NY,27,D,0,Nate_McMurray,10/11/18,NY,27,Nate McMurray,D,FALSE,0.1664,43.8
+G.K. Butterfield,NC,1,D,1,mobirise,10/11/18,NC,1,G.K. Butterfield,D,TRUE,1,78.03
+Roger Allison,NC,1,R,0,RogerWAllison,10/11/18,NC,1,Roger Allison,R,FALSE,0,21.97
+George Holding,NC,2,R,1,GeorgeHolding,10/11/18,NC,2,George Holding,R,TRUE,0.541,49.11
+Linda Coleman,NC,2,D,0,LindaforNC,10/11/18,NC,2,Linda Coleman,D,FALSE,0.459,48.26
+Walter Jones Jr.,NC,3,R,1,walterjones2018,10/11/18,NC,3,Walter B. Jones,R,TRUE,1,100
+David Price,NC,4,D,1,DPrice4Congress,10/11/18,NC,4,David Price,D,TRUE,1,77.05
+Steve VonLor,NC,4,R,0,steveavonloor,10/11/18,NC,4,Steve Von Loor,R,FALSE,0,20.07
+Virginia Foxx,NC,5,R,1,foxxforcongress,10/11/18,NC,5,Virginia Foxx,R,TRUE,0.954,59.7
+D.D. Adams,NC,5,D,0,DDAdamsCongress,10/11/18,NC,5,DD Adams,D,FALSE,0.046,40.3
+Mark Walker,NC,6,R,1,Walker4NC,10/11/18,NC,6,Mark Walker,R,TRUE,0.9328,58.51
+Ryan Watts,NC,6,D,0,watts4congress,10/11/18,NC,6,Ryan Watts,D,FALSE,0.0672,41.49
+David Rouzer,NC,7,R,1,davidrouzer,10/11/18,NC,7,David Rouzer,R,TRUE,0.7622,51.8
+Kyle Horton,NC,7,D,0,drkyle4congress,10/11/18,NC,7,Kyle Horton,D,FALSE,0.2378,45.33
+Richard Hudson,NC,8,R,1,richhudson,10/11/18,NC,8,Richard Hudson,R,TRUE,0.9283,58.05
+Frank McNeill,NC,8,D,0,Frank4NC,10/11/18,NC,8,Frank McNeill,D,FALSE,0.0717,41.95
+Mark Harris,NC,9,R,0,MarkHarrisNC9,10/11/18,NC,9,Mark Harris,R,FALSE,0.4741,48.23
+Dan McCready,NC,9,D,0,McCreadyForNC,10/11/18,NC,9,Dan McCready,D,FALSE,0.5259,48.64
+Patrick McHenry,NC,10,R,1,McHenryCampaign,10/11/18,NC,10,Patrick T. McHenry,R,TRUE,0.9855,62.66
+David Wilson Brown,NC,10,D,0,DWB4Congress,10/11/18,NC,10,David Brown,D,FALSE,0.0145,37.34
+Mark Meadows,NC,11,R,1,votemeadows,10/11/18,NC,11,Mark Meadows,R,TRUE,0.9925,63.2
+Phillip Price,NC,11,D,0,Price4WNC,10/11/18,NC,11,Phillip G. Price,D,FALSE,0.0075,33.99
+Alma Adams,NC,12,D,1,almaforcongress,10/11/18,NC,12,Alma Adams,D,TRUE,1,78.48
+Paul Wright,NC,12,R,0,,10/11/18,NC,12,Paul Wright,R,FALSE,0,21.52
+Ted Budd,NC,13,R,1,buddforcongress,10/11/18,NC,13,Ted Budd,R,TRUE,0.7189,50.61
+Kathy Manning,NC,13,D,0,KathyManningNC,10/11/18,NC,13,Kathy Manning,D,FALSE,0.2811,46.35
+Kelly Armstrong,ND,0,R,0,Armstrong_ND,10/11/18,ND,1,Kelly Armstrong,R,FALSE,0.9865,56.08
+Mac Schneider,ND,0,D,0,mac4northdakota,10/11/18,ND,1,Mac Schneider,D,FALSE,0.0134,39.12
+Steve Chabot,OH,1,R,1,SteveChabot,10/11/18,OH,1,Steve Chabot,R,TRUE,0.774,51.28
+Aftab Pureval,OH,1,D,0,aftabpureval,10/11/18,OH,1,Aftab Pureval,D,FALSE,0.2259,45.93
+Brad Wenstrup,OH,2,R,1,BradWenstrip,10/11/18,OH,2,Brad Wenstrup,R,TRUE,0.9257,56.58
+Jill Schiller,OH,2,D,0,Vote4Schiller,10/11/18,OH,2,Jill Schiller,D,FALSE,0.0743,40.42
+Joyce Beatty,OH,3,D,1,JoyceBeatty,10/11/18,OH,3,Joyce Beatty,D,TRUE,1,78.48
+Jim Burgess,OH,3,R,0,JimBurgess7,10/11/18,OH,3,Jim Burgess,R,FALSE,0,21.52
+Jim Jordan,OH,4,R,1,votejimjordan,10/11/18,OH,4,Jim Jordan,R,TRUE,0.9934,65.12
+Janet Garrett,OH,4,D,0,janet4OH,10/11/18,OH,4,Janet Garrett,D,FALSE,0.0066,34.88
+Bob Latta,OH,5,R,1,latta4congress,10/11/18,OH,5,Robert E. Latta,R,TRUE,0.9756,59.72
+J. Michael Galbraith,OH,5,D,0,OH5forGalbraith,10/11/18,OH,5,J. Michael Galbraith,D,FALSE,0.0243,37.22
+Bill Johnson,OH,6,R,1,JohnsonLeads,10/11/18,OH,6,Bill Johnson,R,TRUE,0.9974,67.99
+Shawna Roberts,OH,6,D,0,robertsohiod6,10/11/18,OH,6,Shawna Roberts,D,FALSE,0.0026,32.01
+Bob Gibbs,OH,7,R,1,Bob_Gibbs,10/11/18,OH,7,Bob Gibbs,R,TRUE,0.9848,62.92
+Ken Harbaugh,OH,7,D,0,Team_Harbaugh,10/11/18,OH,7,Ken Harbaugh,D,FALSE,0.0152,37.08
+Warren Davidson,OH,8,R,1,Vote_Davidson,10/11/18,OH,8,Warren Davidson,R,TRUE,0.9973,67.33
+Vanessa Enoch,OH,8,D,0,DrVEnoch,10/11/18,OH,8,Vanessa Enoch,D,FALSE,0.0027,32.67
+Marcy Kaptur,OH,9,D,1,Marcy_Kaptur,10/11/18,OH,9,Marcy Kaptur,D,TRUE,0.9999,74.21
+Steve Kraus,OH,9,R,0,teamkraus,10/11/18,OH,9,Steven W. Kraus,R,FALSE,0.0001,25.79
+Mike Turner,OH,10,R,1,MikeTurnerOH,10/11/18,OH,10,Michael Turner,R,TRUE,0.7438,51.98
+Theresa Gasper,OH,10,D,0,GasperforOH10,10/11/18,OH,10,Theresa A. Gasper,D,FALSE,0.2562,45.1
+Marcia Fudge,OH,11,D,1,mlfudge,10/11/18,OH,11,Marcia L. Fudge,D,TRUE,1,88.15
+Beverly Goldstein,OH,11,R,0,BevGoldstein,10/11/18,OH,11,Beverly A. Goldstein,R,FALSE,0,11.85
+Troy Balderson,OH,12,R,1,Troy_Balderson,10/11/18,OH,12,Troy Balderson,R,TRUE,0.7262,51.15
+Danny O'Connor,OH,12,D,0,dannyoconnor1,10/11/18,OH,12,Danny O'Connor,D,FALSE,0.2738,46.12
+Tim Ryan,OH,13,D,1,timryan,10/11/18,OH,13,Tim Ryan,D,TRUE,0.9982,68.53
+Chris DePizzo,OH,13,R,0,chrisdepizzo,10/11/18,OH,13,Chris DePizzo,R,FALSE,0.0018,31.47
+Dave Joyce,OH,14,R,1,DaveJoyceOH14,10/11/18,OH,14,David Joyce,R,TRUE,0.8155,54.78
+Betsy Rader,OH,14,D,0,BetsyRaderOH,10/11/18,OH,14,Betsy Rader,D,FALSE,0.1845,45.22
+Steve Stivers,OH,15,R,1,stevestivers,10/11/18,OH,15,Steve Stivers,R,TRUE,0.8938,55.22
+Rick Neal,OH,15,D,0,Rick_Neal,10/11/18,OH,15,Rick Neal,D,FALSE,0.1062,41.8
+Anthony Gonzalez,OH,16,R,1,anthonygonzalez,10/11/18,OH,16,Anthony Gonzalez,R,FALSE,0.6461,51.98
+Susan Moran Palmer,OH,16,D,0,SusanPalmerOH,10/11/18,OH,16,Susan Moran Palmer,D,FALSE,0.3539,48.02
+Kevin Hern,OK,1,R,0,krhern,10/11/18,OK,1,Kevin Hern,R,FALSE,0.9588,58.05
+Tim Gilpin,OK,1,D,0,Gilpin4Congress,10/11/18,OK,1,Tim Gilpin,D,FALSE,0.0412,41.95
+Markwayne Mullin,OK,2,R,1,MarkwayneMullin,10/11/18,OK,2,Markwayne Mullin,R,TRUE,0.9826,59.4
+Jason Nichols,OK,2,D,0,jn4ush,10/11/18,OK,2,Jason Nichols,D,FALSE,0.0174,36.64
+Frank Lucas,OK,3,R,1,FrankDLucas,10/11/18,OK,3,Frank Lucas,R,TRUE,0.9979,65.79
+Frankie Robbins,OK,3,D,0,robbinsforok,10/11/18,OK,3,Frankie Robbins,D,FALSE,0.0021,34.21
+Tom Cole,OK,4,R,1,ColeForCongress,10/11/18,OK,4,Tom Cole,R,TRUE,0.9952,61.89
+Mary Brannon,OK,4,D,0,electbrannon,10/11/18,OK,4,Mary Brannon,D,FALSE,0.0048,35
+Steve Ruseell,OK,5,R,1,SteveRussellOK,10/11/18,OK,5,Steve Russell,R,TRUE,0.8937,54.62
+Kendra Horn,OK,5,D,0,HornForCongress,10/11/18,OK,5,Kendra Horn,D,FALSE,0.1063,45.38
+Suzanne Bonamici,OR,1,D,1,,10/11/18,OR,1,Suzanne Bonamici,D,TRUE,0.9995,69.43
+John Verbeek,OR,1,R,0,,10/11/18,OR,1,John Verbeek,R,FALSE,0.0005,26.32
+Greg Walden,OR,2,R,1,votegregwalden,10/11/18,OR,2,Greg Walden,R,TRUE,0.9738,59.32
+Jamie McLeod-Skinner,OR,2,D,0,jamiefororegon,10/11/18,OR,2,Jamie McLeod-Skinner,D,FALSE,0.0262,36.39
+Earl Blumenauer,OR,3,D,1,repblumenauer,10/11/18,OR,3,Earl Blumenauer,D,TRUE,1,83.04
+Tom Harrison,OR,3,R,0,TomHarrison4OR3,,,,,,,,
+Peter DeFazio,OR,4,D,1,DeFazio4Oregon,10/11/18,OR,4,Peter DeFazio,D,TRUE,0.9897,61.27
+Art Robinson,OR,4,R,0,artforcongress,10/11/18,OR,4,Arthur B. Robinson,R,FALSE,0.0103,34.7
+Kurth Schrader,OR,5,D,1,voteschrader,10/11/18,OR,5,Kurt Schrader,D,TRUE,0.9917,61.71
+Mark Callahan,OR,5,R,0,callahan4oregon,10/11/18,OR,5,Mark Callahan,R,FALSE,0.0083,33.79
+Brian Fitzpatrick,PA,1,R,1,BrianFitzUSA,10/11/18,PA,1,Brian Fitzpatrick,R,TRUE,0.5979,51.05
+Scott Wallace,PA,1,D,0,ScottWallacePA,10/11/18,PA,1,Scott Wallace,D,FALSE,0.4021,48.95
+Brendan Boyle,PA,2,D,1,repbrendanboyle,10/11/18,PA,2,Brendan Boyle,D,TRUE,1,82.6
+David Torres,PA,2,R,0,DTorres4cong,10/11/18,PA,2,David Torres,R,FALSE,0,17.4
+Dwight Evans,PA,3,D,1,DwightEvansPA,10/11/18,PA,3,Dwight Evans,D,TRUE,1,94.24
+Bryan Leib,PA,3,R,0,LeibforPA,10/11/18,PA,3,Bryan E. Leib,R,FALSE,0,5.76
+Madeleine Dean,PA,4,D,0,mad4pa,10/11/18,PA,4,Madeleine Dean,D,FALSE,0.9918,64.29
+Dan David,PA,4,R,0,DanDavidPA,10/11/18,PA,4,Dan David,R,FALSE,0.0082,35.71
+Pearl Kim,PA,5,R,0,PearlKimPA,10/11/18,PA,5,Pearl Kim,R,FALSE,0.0014,31.07
+Mary Gay Scanlon,PA,5,D,0,maryganscanlon,10/11/18,PA,5,Mary Gay Scanlon,D,FALSE,0.9986,68.93
+Greg McCaulley,PA,6,R,0,McCauley4PA,10/11/18,PA,6,Greg McCauley,R,FALSE,0.0468,40.62
+Chrissy Houlahan,PA,6,D,0,HoulahanForPa,10/11/18,PA,6,Chrissy Houlahan,D,FALSE,0.9532,59.38
+Marty Nothstein,PA,7,R,0,Marty_Nothstein,10/11/18,PA,7,Marty Nothstein,R,FALSE,0.0727,43.29
+Susan Wild,PA,7,D,0,wildforcongress,10/11/18,PA,7,Susan Wild,D,FALSE,0.9273,53.67
+Matt Cartwright,PA,8,D,1,CartwrightPA,10/11/18,PA,8,Matt Cartwright,D,TRUE,0.9775,61.29
+John Chrin,PA,8,R,0,JohnChrin,10/11/18,PA,8,John Chrin,R,FALSE,0.0225,38.71
+Dan Meuser,PA,9,R,0,Meuser4Congress,10/11/18,PA,9,Dan Meuser,R,FALSE,0.9553,59.8
+Denny Wolff,PA,9,D,0,DennyForPA,10/11/18,PA,9,Denny Wolff,D,FALSE,0.0447,40.2
+Scott Perry,PA,10,R,1,,10/11/18,PA,10,Scott Perry,R,TRUE,0.7027,52.17
+George Scott,PA,10,D,0,gscott4congress,10/11/18,PA,10,George Scott,D,FALSE,0.2973,47.83
+Lloyd Smucker,PA,11,R,1,LloydSmuckerPA,10/11/18,PA,11,Lloyd Smucker,R,TRUE,0.9404,56.97
+Jess King,PA,11,D,0,jessforcongress,10/11/18,PA,11,Jess King,D,FALSE,0.0596,43.03
+Tom Marino,PA,12,R,1,MarinoPA10,10/11/18,PA,12,Tom Marino,R,TRUE,0.9978,67.71
+Marc Friedenberg,PA,12,D,0,MarcforPA,10/11/18,PA,12,Marc Friedenberg,D,FALSE,0.0022,32.29
+John Joyce,PA,13,R,0,JohnJoyceForPA,10/11/18,PA,13,John Joyce,R,FALSE,0.997,67.35
+Brent Ottaway,PA,13,D,0,Brent4Congress,10/11/18,PA,13,Brent Ottaway,D,FALSE,0.003,32.65
+Guy Reschenthaler,PA,14,R,0,reschenthaler,10/11/18,PA,14,Guy Reschenthaler,R,FALSE,0.9298,58.4
+Bibiana Boerio,PA,14,D,0,Boerio4Congress,10/11/18,PA,14,Bibiana Boerio,D,FALSE,0.0702,41.6
+"Glenn ""GT"" Thompson",PA,15,R,1,GT_TeamGT,10/11/18,PA,15,Glenn W. Thompson,R,TRUE,0.9988,70.38
+Susan Boser,PA,15,D,0,BoserforPA,10/11/18,PA,15,Susan Boser,D,FALSE,0.0012,29.62
+Mike Kelly,PA,16,R,1,MikeKellyforPA,10/11/18,PA,16,Mike Kelly,R,TRUE,0.8638,52.97
+Ron DiNicola,PA,16,D,0,ron_dinicola,10/11/18,PA,16,Ron DiNicola,D,FALSE,0.1362,44.57
+Keith Rothfus,PA,17,R,1,RothfusForPA,10/11/18,PA,17,Keith Rothfus,R,TRUE,0.1244,45.37
+Conor Lamb,PA,17,D,1,conorlambpa,10/11/18,PA,17,Conor Lamb,D,TRUE,0.8756,54.63
+Mike Doyle,PA,18,D,1,,10/11/18,PA,18,Mike Doyle,D,TRUE,1,100
+Kim Mack,PA,18,R,0,,,,,,,,,
+David Cicilline,RI,1,D,1,davidcicilline,10/11/18,RI,1,David Cicilline,D,TRUE,0.9999,78.06
+Patrick Donovan,RI,1,R,0,,10/11/18,RI,1,Patrick Donovan,R,FALSE,0.0001,21.94
+Jim Langevin,RI,2,D,1,langevinforri,10/11/18,RI,2,Jim Langevin,D,TRUE,0.9994,71.51
+Sal Caiozzo,RI,2,R,0,salforcongress,10/11/18,RI,2,Salvatore Caiozzo,R,FALSE,0.0006,28.49
+Katie Arrington,SC,1,R,0,karringtonsc,10/11/18,SC,1,Katie Arrington,R,FALSE,0.8004,53.5
+Joe Cunningham,SC,1,D,0,JoeCunninghamSC,10/11/18,SC,1,Joe Cunningham,D,FALSE,0.1996,46.5
+Joe Wilson,SC,2,R,1,congjoewilson,10/11/18,SC,2,Joe Wilson,R,TRUE,0.9752,60
+Sean Carrigan,SC,2,D,0,VoteCarrigan,10/11/18,SC,2,Sean Carrigan,D,FALSE,0.0248,37.18
+Jeff Duncan,SC,3,R,1,Duncan4Congress,10/11/18,SC,3,Jeff Duncan,R,TRUE,0.9994,69.13
+Mary Geren,SC,3,D,0,marygeren,10/11/18,SC,3,Mary Geren,D,FALSE,0.0006,27.89
+William Timmons,SC,4,R,0,votetimmons,10/11/18,SC,4,William Timmons,R,FALSE,0.9716,59.08
+Brandon Brown,SC,4,D,0,brown_congress,10/11/18,SC,4,Brandon Brown,D,FALSE,0.0284,37.53
+Ralph Norman,SC,5,R,1,ralphnorman,10/11/18,SC,5,Ralph Norman,R,TRUE,0.9724,59.3
+Archie Parnell,SC,5,D,0,Archie4Congress,10/11/18,SC,5,Archie Parnell,D,FALSE,0.0276,37.89
+Jim Clyburn,SC,6,D,1,ClyburnSC06,10/11/18,SC,6,James E. Clyburn,D,TRUE,0.9999,76.01
+Gerhard Gressmann,SC,6,R,0,gressmannforSC6,10/11/18,SC,6,Gerhard Gressmann,R,FALSE,0.0001,21.05
+Tom Rice,SC,7,R,1,TomRiceSC7,10/11/18,SC,7,Tom Rice,R,TRUE,0.9732,60.8
+Robert Q. Williams,SC,7,D,0,RobertQWilliam1,10/11/18,SC,7,Robert Williams,D,FALSE,0.0268,39.2
+Dusty Johnson,SD,0,R,0,dustyjohnson,10/11/18,SD,1,Dusty Johnson,R,FALSE,0.943,54.56
+Tim Bjorkman,SD,0,D,0,timbjorkmansd,10/11/18,SD,1,Tim Bjorkman,D,FALSE,0.057,40.85
+Phil Roe,TN,1,R,1,DrPhilRoe,10/11/18,TN,1,Phil Roe,R,TRUE,1,77.06
+Marty Olsen,TN,1,D,0,martyo4congress,10/11/18,TN,1,Marty Olsen,D,FALSE,0,19.72
+Tim Burchett,TN,2,R,0,timburchett,10/11/18,TN,2,Tim Burchett,R,FALSE,0.9948,62.77
+Renee Hoyos,TN,2,D,0,Hoyos4Congress,10/11/18,TN,2,Renee Hoyos,D,FALSE,0.0052,32.46
+Chuck Fleischmann,TN,3,R,1,chuck4congress,10/11/18,TN,3,Chuck Fleischmann,R,TRUE,0.9989,67.52
+Danielle Mitchell,TN,3,D,0,dmmd4tncongress,10/11/18,TN,3,Danielle Mitchell,D,FALSE,0.0011,29.46
+Scott DesJarlais,TN,4,R,1,desjarlaisTN04,10/11/18,TN,4,Scott DesJarlais,R,TRUE,0.9995,69.94
+Mariah Phillips,TN,4,D,0,mariah4congress,10/11/18,TN,4,Mariah Phillips,D,FALSE,0.0005,27
+Jim Cooper,TN,5,D,1,CoopForCongress,10/11/18,TN,5,Jim Cooper,D,TRUE,0.9987,68.37
+Jody Ball,TN,5,R,0,jballcampaign,10/11/18,TN,5,Jody M. Ball,R,FALSE,0.0013,31.63
+John Rose,TN,6,R,0,JohnRoseforTN,10/11/18,TN,6,John Rose,R,FALSE,0.9991,68.47
+Dawn Barlow,TN,6,D,0,barlow4congress,10/11/18,TN,6,Dawn Barlow,D,FALSE,0.0009,27.44
+Mark Green,TN,7,R,0,drmarkgreen4tn,10/11/18,TN,7,Mark E. Green,R,FALSE,0.9954,64.15
+Justin Kanew,TN,7,D,0,kanew,10/11/18,TN,7,Justin Kanew,D,FALSE,0.0046,31.85
+David Kustoff,TN,8,R,1,DavidKustoff,10/11/18,TN,8,David Kustoff,R,TRUE,0.9992,68.65
+Erika Stotts Pearson,TN,8,D,0,,10/11/18,TN,8,Erika Stotts Pearson,D,FALSE,0.0008,28.32
+Steve Cohen,TN,9,D,1,reelectcohen,10/11/18,TN,9,Steve Cohen,D,TRUE,1,83.03
+Charlotte Bergmann,TN,9,R,0,electbergmann,10/11/18,TN,9,Charlotte Bergmann,R,FALSE,0,13.8
+Louis Gohmert,TX,1,R,1,LouieGohmertTX1,10/11/18,TX,1,Louie Gohmert,R,TRUE,0.9999,75.06
+Shirley McKellar,TX,1,D,0,Vote4McKellar,10/11/18,TX,1,Shirley McKellar,D,FALSE,0.0001,21.76
+Dan Crenshaw,TX,2,R,0,DanCrenshawTX,10/11/18,TX,2,Dan Crenshaw,R,FALSE,0.8914,54.78
+Todd Litton,TX,2,D,0,toddlitton,10/11/18,TX,2,Todd Litton,D,FALSE,0.1086,41.43
+Van Taylor,TX,3,R,0,VanTaylorTX,10/11/18,TX,3,Van Taylor,R,FALSE,0.925,56.38
+Lorie Burch,TX,3,D,0,LorieB4Congress,10/11/18,TX,3,Lorie Burch,D,FALSE,0.075,40.19
+John Ratcliffe,TX,4,R,1,ratcliffetx4,10/11/18,TX,4,John Ratcliffe,R,TRUE,0.9999,77.2
+Catherine Krantz,TX,4,D,0,Krantz4Congress,10/11/18,TX,4,Catherine Krantz,D,FALSE,0.0001,19.56
+Lance Gooden,TX,5,R,0,lancegooden,10/11/18,TX,5,Lance Gooden,R,FALSE,0.9932,64.02
+Dan Wood,TX,5,D,0,danwood2018,10/11/18,TX,5,Dan Wood,D,FALSE,0.0068,35.98
+Ron Wright,TX,6,R,0,ron4congress,10/11/18,TX,6,Ron Wright,R,FALSE,0.8425,52.74
+Jana Lynne Sanchez,TX,6,D,0,janasanchez,10/11/18,TX,6,Jana Lynne Sanchez,D,FALSE,0.1575,44.13
+John Culberson,TX,7,R,1,johnculberson,10/11/18,TX,7,John Culberson,R,TRUE,0.609,51.14
+Lizzie Pannill Fletcher,TX,7,D,0,lizzie4congress,10/11/18,TX,7,Lizzie Pannill Fletcher,D,FALSE,0.391,48.86
+Kevin Brady,TX,8,R,1,bradyfortexas,10/11/18,TX,8,Kevin Brady,R,TRUE,1,76.99
+Steven David,TX,8,D,0,stevedavid,10/11/18,TX,8,Steven David,D,FALSE,0,19.78
+Al Green,TX,9,D,1,repalgreen,10/11/18,TX,9,Al Green,D,TRUE,1,84.74
+Michael McCaul,TX,10,R,1,McCaulforTexas,10/11/18,TX,10,Michael T. McCaul,R,TRUE,0.8604,53.32
+Mike Siegel,TX,10,D,0,SiegelForTexas,10/11/18,TX,10,Mike Siegel,D,FALSE,0.1396,43.32
+Mike Conaway,TX,11,R,1,conawaytx11,10/11/18,TX,11,K. Michael Conaway,R,TRUE,1,80.73
+Jennie Lou Leeder,TX,11,D,0,JennieLouLeeder,10/11/18,TX,11,Jennie Lou Leeder,D,FALSE,0,15.96
+Kay Granger,TX,12,R,1,,10/11/18,TX,12,Kay Granger,R,TRUE,0.9991,68.59
+Vanessa Adia,TX,12,D,0,VanessaAdiaTX12,10/11/18,TX,12,Vanessa Adia,D,FALSE,0.0009,28.36
+Mac Thornberry,TX,13,R,1,macthornberry,10/11/18,TX,13,Mac Thornberry,R,TRUE,1,82.17
+Greg Sagan,TX,13,D,0,gtsagan,10/11/18,TX,13,Greg Sagan,D,FALSE,0,14.49
+Randy Weber,TX,14,R,1,weberfortexas,10/11/18,TX,14,Randy Weber,R,TRUE,0.9911,62.92
+Adrienne Bell,TX,14,D,0,adrbell,10/11/18,TX,14,Adrienne Bell,D,FALSE,0.0089,34.14
+Vicente Gonzalez,TX,15,D,1,votevicente,10/11/18,TX,15,Vicente Gonzalez,D,TRUE,0.9915,63.49
+Tim Westley,TX,15,R,0,dapastor,10/11/18,TX,15,Tim Westley,R,FALSE,0.0085,33.71
+Veronica Escobar,TX,16,D,0,vgescobar,10/11/18,TX,16,Veronica Escobar,D,FALSE,0.9981,67.19
+Rick Seeberger,TX,16,R,0,rickseeberger,10/11/18,TX,16,Rick Seeberger,R,FALSE,0.0019,29.32
+Bill Flores,TX,17,R,1,Flores4Congress,10/11/18,TX,17,Bill Flores,R,TRUE,0.9919,62.53
+Rick Kennedy,TX,17,D,0,RickKennedyTX17,10/11/18,TX,17,Rick Kennedy,D,FALSE,0.008,34.54
+Sheile Jackson Lee,TX,18,D,1,jacksonlee18,10/11/18,TX,18,Sheila Jackson Lee,D,TRUE,1,80.84
+Ava Pate,TX,18,R,0,avaforcongress,10/11/18,TX,18,Ava Reynero Pate,R,FALSE,0,15.61
+Jodey Arrington,TX,19,R,1,JodeyArrington,10/11/18,TX,19,Jodey Arrington,R,TRUE,1,78.68
+Miguel Levario,TX,19,D,0,miguellevario19,10/11/18,TX,19,Miguel Levario,D,FALSE,0,21.32
+Joaquin Castro,TX,20,D,1,castro4congress,10/11/18,TX,20,Joaquin Castro,D,TRUE,0.9999,81.33
+Jeffrey Blunt,TX,20,R,0,,10/11/18,TX,20,Jeffrey Blunt,LIB,FALSE,0.0001,18.67
+Chip Roy,TX,21,R,0,chiproytx,10/11/18,TX,21,Chip Roy,R,FALSE,0.8006,51.26
+Joseph Kopser,TX,21,D,0,kopser4congress,10/11/18,TX,21,Joseph Kopser,D,FALSE,0.1993,43.45
+Pete Olson,TX,22,R,1,PeteOlson,10/11/18,TX,22,Pete Olson,R,TRUE,0.9728,59.42
+Sri Preston Kulkarni,TX,22,D,0,SriPKulkarni,10/11/18,TX,22,Sri Preston Kulkarni,D,FALSE,0.0272,37.34
+Will Hurd,TX,23,R,1,WillHurd,10/11/18,TX,23,Will Hurd,R,TRUE,0.8803,54.08
+Gina Ortiz Jones,TX,23,D,0,ginaortizjones,10/11/18,TX,23,Gina Ortiz Jones,D,FALSE,0.1197,43.43
+Kenny Marchant,TX,24,R,1,MarchantforTX24,10/11/18,TX,24,Kenny Marchant,R,TRUE,0.9601,59.62
+Jan McDowell,TX,24,D,0,JanForCongress,10/11/18,TX,24,Jan McDowell,D,FALSE,0.0399,40.38
+Roger Williams,TX,25,R,1,rogerwilliamstx,10/11/18,TX,25,Roger Williams,R,TRUE,0.9813,60.1
+Julie Oliver,TX,25,D,0,JulieForTX25,10/11/18,TX,25,Julie Oliver,D,FALSE,0.0187,36.98
+Michael Burgess,TX,26,R,1,michaelcburgess,10/11/18,TX,26,Michael Burgess,R,TRUE,0.9981,67.11
+Linsey Fagan,TX,26,D,0,LinseyFaganTX,10/11/18,TX,26,Linsey Fagan,D,FALSE,0.0019,29.86
+Michael Cloud,TX,27,R,1,michaeljcloud,10/11/18,TX,27,Michael Cloud,R,TRUE,0.9963,65.09
+Eric Holguin,TX,27,D,0,EricHolguinTX,10/11/18,TX,27,Eric Holguin,D,FALSE,0.0037,31.58
+Henry Cuellar,TX,28,D,1,,10/11/18,TX,28,Henry Cuellar,D,TRUE,0.9998,80.52
+Sylvia Garcia,TX,29,D,0,senatorsylvia,10/11/18,TX,29,Sylvia R. Garcia,D,FALSE,0.9983,69.23
+Phillip Aronoff,TX,29,R,0,Aronoff4USRep,10/11/18,TX,29,Phillip Aronoff,R,FALSE,0.0017,27.23
+Eddie Bernice Johnson,TX,30,D,1,,10/11/18,TX,30,Eddie Bernice Johnson,D,TRUE,0.9999,88
+John Carter,TX,31,R,1,JudgeJohnCarter,10/11/18,TX,31,John Carter,R,TRUE,0.9661,55.45
+MJ Hegar,TX,31,D,0,mjhegar,10/11/18,TX,31,Mary Jennings Hegar,D,FALSE,0.0339,41.79
+Pete Sessions,TX,32,R,1,SessionsForTX32,10/11/18,TX,32,Pete Sessions,R,TRUE,0.4847,48.66
+Colin Allred,TX,32,D,0,ColinAllredTX,10/11/18,TX,32,Colin Allred,D,FALSE,0.5152,48.91
+Marc Veasey,TX,33,D,1,MarcVeasey,10/11/18,TX,33,Marc Veasey,D,TRUE,0.9999,77.99
+Willie Billups,TX,33,R,0,votebillups,10/11/18,TX,33,Willie Billups,R,FALSE,0.0001,18.92
+Filemon Vela,TX,34,D,1,FilemonVela,10/11/18,TX,34,Filemon Vela,D,TRUE,0.9959,67.6
+Rey Gonzalez,TX,34,R,0,drreygonzalez,10/11/18,TX,34,Rey Gonzalez,R,FALSE,0.0041,32.4
+Lloyd Doggett,TX,35,D,1,lloyddoggetttx,10/11/18,TX,35,Lloyd Doggett,D,TRUE,0.9995,71.12
+David Smalling,TX,35,R,0,SmallingforCD35,10/11/18,TX,35,David Smalling,R,FALSE,0.0005,25.94
+Brian Babin,TX,36,R,1,babin4congress,10/11/18,TX,36,Brian Babin,R,TRUE,1,77.07
+Dayna Steele,TX,36,D,0,daynasteele,10/11/18,TX,36,Dayna Steele,D,FALSE,0,22.93
+Rob Bishop,UT,1,R,1,robbishoput,10/11/18,UT,1,Rob Bishop,R,TRUE,0.998,60.92
+Lee Castillo,UT,1,D,0,Lee4USCongress,10/11/18,UT,1,Lee Castillo,D,FALSE,0.002,28.61
+Chris Stewart,UT,2,R,1,stewartforutah,10/11/18,UT,2,Chris Stewart,R,TRUE,0.9727,54.9
+Shireen Ghorbani,UT,2,D,0,ShireenGhorbani,10/11/18,UT,2,Shireen Ghorbani,D,FALSE,0.0271,36.45
+John Curtis,UT,3,R,1,CurtisUT,10/11/18,UT,3,John R. Curtis,R,TRUE,0.9964,61
+James Singer,UT,3,D,0,urbannavajo,10/11/18,UT,3,James Singer,D,FALSE,0.0036,29.38
+Mia Love,UT,4,R,1,miablove,10/11/18,UT,4,Mia Love,R,TRUE,0.7657,53.07
+Ben McAdams,UT,4,D,0,BenMcAdams,10/11/18,UT,4,Ben McAdams,D,FALSE,0.2343,46.93
+Peter Welch,VT,0,D,1,WelchforVT,10/11/18,VT,1,Peter Welch,D,TRUE,0.9998,72.5
+Anyta Tynio,VT,0,R,0,AnyaTynio,10/11/18,VT,1,Anya Tynio,R,FALSE,0.0002,22.63
+Rob Wittman,VA,1,R,1,reelectwittman,10/11/18,VA,1,Robert J. Wittman,R,TRUE,0.9179,57.44
+Vangie Williams,VA,1,D,0,vangie4congress,10/11/18,VA,1,Vangie Williams,D,FALSE,0.0821,42.56
+Scott Taylor,VA,2,R,1,scotttaylorva,10/11/18,VA,2,Scott Taylor,R,TRUE,0.7378,52.13
+Elaine Luria,VA,2,D,0,ElaineLuriaVA,10/11/18,VA,2,Elaine Luria,D,FALSE,0.2622,47.87
+Bobby Scott,VA,3,D,1,BobbyScott4VA3,10/11/18,VA,3,Robert C. Scott,D,TRUE,1,100
+Donald McEachin,VA,4,D,1,Donald_Mceachin,10/11/18,VA,4,A. Donald McEachin,D,TRUE,0.9995,69.47
+Ryan McAdams,VA,4,R,0,RyanMcAdams4VA,10/11/18,VA,4,Ryan McAdams,R,FALSE,0.0005,27.53
+Denver Riggleman,VA,5,R,0,denver4va,10/11/18,VA,5,Denver Riggleman,R,FALSE,0.609,51.47
+Leslie Cockburn,VA,5,D,0,TeamCockburn,10/11/18,VA,5,Leslie Cockburn,D,FALSE,0.391,48.53
+Ben Cline,VA,6,R,0,Cline4Virginia,10/11/18,VA,6,Ben Cline,R,FALSE,0.9459,58.92
+Jennifer Lewis,VA,6,D,0,JenniferForVA,10/11/18,VA,6,Jennifer Lewis,D,FALSE,0.0541,41.08
+Dave Brat,VA,7,R,1,DaveBratVA7th,10/11/18,VA,7,Dave Brat,R,TRUE,0.5968,49.57
+Abigail Spanberger,VA,7,D,0,SpanbergerVA07,10/11/18,VA,7,Abigail Spanberger,D,FALSE,0.4032,47.79
+Don Beyer,VA,8,D,1,DonBeyerVA,10/11/18,VA,8,Don Beyer,D,TRUE,1,81.5
+Thomas Oh,VA,8,R,0,ohforcongress,10/11/18,VA,8,Thomas Oh,R,FALSE,0,18.5
+Morgan Griffith,VA,9,R,1,MorganGriffith,10/11/18,VA,9,Morgan Griffith,R,TRUE,0.9759,60.67
+Anthony Flaccavento,VA,9,D,0,flacc4congress,10/11/18,VA,9,Anthony Flaccavento,D,FALSE,0.0241,39.33
+Barbara Comstock,VA,10,R,1,BarbaraComstock,10/11/18,VA,10,Barbara Comstock,R,TRUE,0.1605,46.34
+Jennifer Wexton,VA,10,D,0,JenniferWexton,10/11/18,VA,10,Jennifer Wexton,D,FALSE,0.8395,53.66
+Gerry Connolly,VA,11,D,1,electconnolly,10/11/18,VA,11,Gerald E. Connolly,D,TRUE,1,74.85
+Jeff Dove,VA,11,R,0,JefferyADoveJr,10/11/18,VA,11,Jeff Dove,R,FALSE,0,22.03
+Suzan DelBene,WA,1,D,1,SuzanDelBene,10/11/18,WA,1,Suzan DelBene,D,TRUE,0.9987,68.46
+Jeffrey Beeler,WA,1,R,0,beeler4congress,10/11/18,WA,1,Jeffrey Beeler,R,FALSE,0.0013,31.54
+Rick Larsen,WA,2,D,1,larsenrick,10/11/18,WA,2,Rick Larsen,D,TRUE,0.9996,77.23
+Jaime Herrera Beutler,WA,3,R,1,JaimeForUSRep,10/11/18,WA,3,Jaime Herrera Beutler,R,TRUE,0.7707,53.28
+Carolyn Long,WA,3,D,0,ElectLong,10/11/18,WA,3,Carolyn Long,D,FALSE,0.2293,46.72
+Dan Newhouse,WA,4,R,1,,10/11/18,WA,4,Dan Newhouse,R,TRUE,0.9928,65.09
+Christine Brown,WA,4,D,0,ChristineForWA,10/11/18,WA,4,Christine Brown,D,FALSE,0.0072,34.91
+Cathy McMorris Rodgers,WA,5,R,1,teamcmr,10/11/18,WA,5,Cathy McMorris Rodgers,R,TRUE,0.8311,54.11
+Lisa Brown,WA,5,D,0,lisa4congress,10/11/18,WA,5,Lisa Brown,D,FALSE,0.1689,45.89
+Derek Kilmer,WA,6,D,1,derekkilmer,10/11/18,WA,6,Derek Kilmer,D,TRUE,0.9981,68.02
+Douglas Dightman,WA,6,R,0,,10/11/18,WA,6,Douglas Dightman,R,FALSE,0.0019,31.98
+Pramila Jayapal,WA,7,D,1,PramilaJayapal,10/11/18,WA,7,Pramila Jayapal,D,TRUE,1,89.06
+Craig Keller,WA,7,R,0,,10/11/18,WA,7,Craig Keller,R,FALSE,0,10.94
+Dino Rossi,WA,8,R,0,DinoRossiWA,10/11/18,WA,8,Dino Rossi,R,FALSE,0.6436,51.5
+Kim Schrier,WA,8,D,0,DrKimSchrier,10/11/18,WA,8,Kim Schrier,D,FALSE,0.3564,48.5
+Adam Smith,WA,9,D,1,electadamsmith,10/11/18,WA,9,Adam Smith,D,TRUE,0.9815,61.31
+Sarah Smith,WA,9,D,0,sarahsmith2018,10/11/18,WA,9,Sarah Smith,D,FALSE,0.0185,38.69
+Denny Heck,WA,10,D,1,DennyHeck,10/11/18,WA,10,Denny Heck,D,TRUE,0.9977,66.84
+Joseph Brumbles,WA,10,R,0,josephbrumbles,10/11/18,WA,10,Joseph Brumbles,R,FALSE,0.0023,33.16
+David McKinley,WV,1,R,1,McKinleyforWV,10/11/18,WV,1,David McKinley,R,TRUE,0.9888,62.32
+Kendra Fershee,WV,1,D,0,teamkendrawv,10/11/18,WV,1,Kendra Fershee,D,FALSE,0.0112,37.68
+Alex Mooney,WV,2,R,1,mooneyforwv,10/11/18,WV,2,Alex Mooney,R,TRUE,0.9168,54.42
+Talley Sergent,WV,2,D,0,TalleySergent,10/11/18,WV,2,Talley Sergent,D,FALSE,0.0831,40.96
+Carol Miller,WV,3,R,0,CarolMillerWV,10/11/18,WV,3,Carol Miller,R,FALSE,0.5949,51.08
+Richard Ojeda,WV,3,D,0,ojeda4congress,10/11/18,WV,3,Richard Ojeda,D,FALSE,0.4051,48.92
+Bryan Steil,WI,1,R,0,BryanSteilforWI,10/11/18,WI,1,Randy Bryce,D,FALSE,0.3489,46.89
+Randy Bryce,WI,1,D,0,IronStache,10/11/18,WI,1,Ken Yorgan,I,FALSE,0,3.13
+Mark Pocan,WI,2,D,1,MarkPocan,10/11/18,WI,2,Mark Pocan,D,TRUE,1,100
+Ron Kind,WI,3,D,1,KindforCongress,10/11/18,WI,3,Ron Kind,D,TRUE,0.9851,62.64
+Steve Toft,WI,3,R,0,toftforcongress,10/11/18,WI,3,Steve Toft,R,FALSE,0.0149,37.36
+Gwen Moore,WI,4,D,1,Gwen4Congress,10/11/18,WI,4,Gwen Moore,D,TRUE,1,81.75
+Tim Rogers,WI,4,R,0,,10/11/18,WI,4,Tim Rogers,R,FALSE,0,14.94
+Jim Sensenbrenner,WI,5,R,1,,10/11/18,WI,5,F. James Sensenbrenner,R,TRUE,0.9775,61.72
+Tom Palzewicz,WI,5,D,0,tomforwi,10/11/18,WI,5,Tom Palzewicz,D,FALSE,0.0225,38.28
+Glenn Grothman,WI,6,R,1,GrothmanforWI,10/11/18,WI,6,Glenn Grothman,R,TRUE,0.9177,57.79
+Dan Kohl,WI,6,D,0,DanKohlWI,10/11/18,WI,6,Dan Kohl,D,FALSE,0.0823,42.21
+Sean Duffy,WI,7,R,1,duffy4wisconsin,10/11/18,WI,7,Sean P. Duffy,R,TRUE,0.9387,57.3
+Margaret Engesbretson,WI,7,D,0,vetfordemocracy,10/11/18,WI,7,Margaret Engebretson,D,FALSE,0.0612,39.68
+Mike Gallagher,WI,8,R,1,MikeforWI,10/11/18,WI,8,Mike Gallagher,R,TRUE,0.9097,57.57
+Beau Liegeois,WI,8,D,0,beauforcongress,10/11/18,WI,8,Beau Liegeois,D,FALSE,0.0903,42.43
+Liz Cheney,WY,0,R,1,Liz_Cheney,10/11/18,WY,1,Liz Cheney,R,TRUE,0.9998,72.01
+Greg Hunter,WY,0,D,0,ForWyoming,10/11/18,WY,1,Greg Hunter,D,FALSE,0.0002,23.04
+Martha McSally,AZ,Senate,R,0,marthamcsally,,,,,,,,
+Kyrsten Sinema,AZ,Senate,D,0,kyrstensinema,,,,,,,,
+Dianne Feinstein,CA,Senate,D,1,DianneFeinstein,,,,,,,,
+Kevin de Leon,CA,Senate,D,0,kdeleon,,,,,,,,
+Chris Murphy,CT,Senate,D,1,ChrisMurphyCT,,,,,,,,
+Matthew Corey,CT,Senate,R,0,MattCoreyCT,,,,,,,,
+Tom Carper,DE,Senate,D,1,TomCarperforDE,,,,,,,,
+Rob Arlett,DE,Senate,R,0,robarlett,,,,,,,,
+Bill Nelson,FL,Senate,D,1,nelsonforsenate,,,,,,,,
+Rick Scott,FL,Senate,R,0,ScottforFlorida,,,,,,,,
+Mazie Hirono,HI,Senate,R,1,maziehirono,,,,,,,,
+Ron Curtis,HI,Senate,R,0,rcurtis808,,,,,,,,
+Joe Donnelly,IN,Senate,D,1,JoeforIndiana,,,,,,,,
+Mike Braun,IN,Senate,R,0,braun4indiana,,,,,,,,
+Angus King,ME,Senate,I,1,AngusKing2018,,,,,,,,
+Zak Ringelstein,ME,Senate,D,0,RingelsteinME,,,,,,,,
+Eric Brakey,ME,Senate,R,0,SenatorBrakey,,,,,,,,
+Ben Cardin,MD,Senate,D,1,bencardinformd,,,,,,,,
+Tony Campbell,MD,Senate,R,0,Campbell4MD,,,,,,,,
+Elizabeth Warren,MA,Senate,D,1,elizabethforma,,,,,,,,
+Geoff Diehl,MA,Senate,R,0,diehlforsenate,,,,,,,,
+Debbie Stabenow,MI,Senate,D,1,stabenow,,,,,,,,
+John James,MI,Senate,R,0,johnjamesmi,,,,,,,,
+Amy Klobuchar,MN,Senate,D,1,amyklobuchar,,,,,,,,
+Jim Newberger,MN,Senate,R,0,NewbergerJim,,,,,,,,
+Roger Wicker,MS,Senate,R,1,RogerWicker,,,,,,,,
+David Baria,MS,Senate,D,0,dbaria,,,,,,,,
+Claire McCaskill,MO,Senate,D,1,McCaskill4MO,,,,,,,,
+Josh Hawley,MO,Senate,R,0,hawleymo,,,,,,,,
+Jon Tester,MT,Senate,D,1,jontester,,,,,,,,
+Matt Rosendale,MT,Senate,R,0,MattForMontana,,,,,,,,
+Deb Fischer,NE,Senate,R,1,DebFischerNE,,,,,,,,
+Jane Raybould,NE,Senate,D,0,JaneRaybould,,,,,,,,
+Dean Heller,NV,Senate,R,1,deanheller,,,,,,,,
+Jacky Rosen,NV,Senate,D,0,RosenforNevada,,,,,,,,
+Bob Menendez,NJ,Senate,D,1,BobMenendezNJ,,,,,,,,
+Bob Hugin,NJ,Senate,R,0,BobHugin,,,,,,,,
+Martin Heinrich,NM,Senate,D,1,TeamHeinrich,,,,,,,,
+Mick Rich,NM,Senate,R,0,MickRich4Senate,,,,,,,,
+Kirsten Gillibrand,NY,Senate,D,1,SenGillibrand,,,,,,,,
+Chele Farley,NY,Senate,R,0,CheleFarley,,,,,,,,
+Heidi Heitkamp,ND,Senate,D,1,HeidiHeitkamp,,,,,,,,
+Kevin Cramer,ND,Senate,R,0,kevincramer,,,,,,,,
+Sherrod Brown,OH,Senate,D,1,sherrodbrown,,,,,,,,
+Jim Renacci,OH,Senate,R,0,JimRenacci,,,,,,,,
+Bob Casey Jr.,PA,Senate,D,1,Bob_Casey,,,,,,,,
+Lou Barletta,PA,Senate,R,0,louforsenate,,,,,,,,
+Sheldon Whitehouse,RI,Senate,D,1,SheldonforRI,,,,,,,,
+Bob Flanders,RI,Senate,R,0,flanders4senate,,,,,,,,
+Marsha Blackburn,TN,Senate,R,0,votemarsha,,,,,,,,
+Phil Bredesen,TN,Senate,D,0,philbredesen,,,,,,,,
+Ted Cruz,TX,Senate,R,1,tedcruz,,,,,,,,
+Beto O'Rourke,TX,Senate,D,0,betoorourke,,,,,,,,
+Mitt Romney,UT,Senate,R,0,Romney4Utah,,,,,,,,
+Jenny Wilson,UT,Senate,D,0,jennywilsonut,,,,,,,,
+Bernie Sanders,VT,Senate,I,1,BernieSanders,,,,,,,,
+Lawrence Zupan,VT,Senate,R,0,,,,,,,,,
+Tim Kaine,VA,Senate,D,1,timkaine,,,,,,,,
+Corey Stewart,VA,Senate,R,0,CoreyStewartVA,,,,,,,,
+Maria Cantwell,WA,Senate,D,1,mariacantwell,,,,,,,,
+Susan Hutchison,WA,Senate,R,0,susan4senate,,,,,,,,
+Joe Manchin,WV,Senate,D,1,joemanchinwv,,,,,,,,
+Patrick Morrisey,WV,Senate,R,0,morriseywv,,,,,,,,
+Tammy Baldwin,WI,Senate,D,1,tammybaldwin,,,,,,,,
+Leah Vukmir,WI,Senate,R,0,LeahVukmir,,,,,,,,
+John Barrasso,WY,Senate,R,1,barrassoforwyo,,,,,,,,
+Gary Trauner,WY,Senate,D,0,TraunerforWY,,,,,,,,
