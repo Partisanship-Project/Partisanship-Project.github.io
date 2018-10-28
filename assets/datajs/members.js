@@ -68,7 +68,7 @@ function fetchRaceData(state,district){
         console.log(data)
         var count=0;
         if (data.state==state & data.district==district){
-            count++1;
+            count++;
         }    
         //if there are more than 3 condidates, we're going to do multiple rows
         if (count>3){
