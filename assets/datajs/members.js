@@ -10,9 +10,9 @@ function getMembers(){
 function refreshMemberPage(){
     //identify who they're looking for
     var newdata=[];
-    var member_input=$("#member_select").val();
+    var member_input=$(".member_select").val();
     if (member_input=='' || member_input=='Select a Member'){
-        member_input=$("#member_select").val("Select a Member");
+        member_input=$(".member_select").val("Select a Member");
     }  
     //clean out existing page
     $('#main_container').text('');
@@ -26,9 +26,9 @@ function refreshMemberPage(){
 
 function fetchMemberData(){
     var newdata=[];
-    var member_input=$("#member_select").val();
+    var member_input=$(".member_select").val();
     if (member_input=='' || member_input=='Select a Member'){
-        member_input=$("#member_select").val("Select a Member");
+        member_input=$(".member_select").val("Select a Member");
     }else{
         if (location.hostname === "localhost" || location.hostname === "127.0.0.1"|| location.hostname === ""){
             $('#official_name').text('successful name change');
@@ -48,7 +48,7 @@ function fetchRaceByName(name){
     var party ='';
     var state= '';
     d3.csv("../assets/replication/Data/metadata.csv", function(data) {
-        console.log(data)
+        //console.log(data)
         if (data.name==name){
             var state=data.state;
             var district=data.district
@@ -65,7 +65,7 @@ function fetchRaceData(state,district){
     var state= '';
     var cards=[];
     d3.csv("../assets/replication/Data/metadata.csv", function(data) {
-        console.log(data)
+        //console.log(data)
         var count=0;
         if (data.state==state & data.district==district){
             count++;

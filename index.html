@@ -126,7 +126,7 @@
                     </p>
                     
                       <div class="container">
-                        <input id="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off" style='background: white'>
+                        <input class="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off">
                         <input type="submit" value='Candidate Search' onclick="fetchMemberData()">
                         <!--<div class="mbr-section-btn" buttons="0">-->
                         <!--  <a class="btn btn-primary display-9" href="members.html">Explore</a>-->
@@ -179,7 +179,7 @@
 
 <section class="features11 cid-r66XHGBLE7" id="features11-5">
     <div class="container" style='padding-bottom: 50px'>
-      <input id="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off">
+      <input class="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off">
       <input type="submit" value='Candidate Search' onclick="fetchMemberData()">
     </div>
     <div class="container" id='member_container'>
@@ -273,7 +273,7 @@
   }else{
     var members=getMembers();//["Jason Radford","Betsy Sinclair"];
   }
-  $( "#member_select" ).autocomplete({source: members}); //native jquery autocomplete function
+  $( ".member_select" ).autocomplete({source: members}); //native jquery autocomplete function
   //function autocomplete(inp, arr) {
   //  /*the autocomplete function takes two arguments,
   //  the text field element and an array of possible autocompleted values:*/
