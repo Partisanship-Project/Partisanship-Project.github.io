@@ -1,7 +1,7 @@
 //generates a list of members - ["John Kennedy", "John McCain"]
 function getMembers(){
     var members=[];
-    d3.csv("../assets/replication/data/metadata.csv", function(data) {
+    d3.csv("../assets/replication/Data/metadata.csv", function(data) {
         members.push(data.name)
     });
     return members
@@ -64,7 +64,7 @@ function fetchRaceData(state,district){
     var party ='';
     var state= '';
     var cards=[];
-    d3.csv("../assets/replication/data/metadata.csv", function(data) {
+    d3.csv("../assets/replication/Data/metadata.csv", function(data) {
         console.log(data)
         var count=0;
         if (data.state==state & data.district==district){
@@ -95,8 +95,8 @@ function fetchRaceData(state,district){
             var headshot_url='../assets/images/headshots/'+district+state+'.jpg';
             headshot_url='../assets/images/headshots/sinclair.jpg';
             if (data.twitter!=''){
-                var history_url='/assets/replication/images/'+data.twitter+'.jpg';
-                history_url='/assets/replication/images/sinclair.jpg';
+                var history_url='/assets/replication/Images/'+data.twitter+'.jpg';
+                history_url='/assets/replication/Images/sinclair.jpg';
             }else{
                 var res=
             }
