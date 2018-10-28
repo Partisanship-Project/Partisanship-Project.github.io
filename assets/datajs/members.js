@@ -38,7 +38,7 @@ function fetchMemberData(){
             
             fetchRaceByName(member_input);
         }
-        
+        //NEED CONDITION IF THEY ENTER AN INVALID NAME 
     }
 }
 
@@ -97,9 +97,11 @@ function fetchRaceData(state,district){
             if (data.twitter!=''){
                 var history_url='/assets/replication/Images/'+data.twitter+'.jpg';
                 history_url='/assets/replication/Images/sinclair.jpg';
+                var words=getWords(data.twitter);
             }else{
                 var history_url='/assets/replication/Images/no_data.jpg';       //need to create this image
                 history_url='/assets/replication/Images/sinclair.jpg';
+                var words = ['Not Available'];
             }
             //Create the card object we will attach a members' data to
             var card=$("<div class='col-"+ratio.toString()+" col-sm-"+ratio.toString()+"'>")
@@ -130,15 +132,19 @@ function fetchRaceData(state,district){
             //create and append table of top partisan words
             var row3=$("<div class=row></div>")
             //FORMAT TOPWORDS TABLE
+            var wordtable=getWordTable(data.twitter)
             row3.append('top words table!')
             div.append(h,row1,row2,row3)
             card.append(div)            
             cards.push(card);  //add this card to the list of cards.
         }
+        //Hide the carousel
+        $('#slider1-1').hide()
         
+        //now that we have all the cards
         //clear the existing container
         $("#member_container").empty()
-        //now that we have all the cards
+        
         var cardrows=[];
         for (r=0; r<=Math.floor(count/3); r++ ){
             if (cards.length>=3){
