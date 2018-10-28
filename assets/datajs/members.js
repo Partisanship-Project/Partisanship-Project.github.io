@@ -47,7 +47,7 @@ function fetchRaceByName(name){
     var affiliation = ''; //[party] from [State]
     var party ='';
     var state= '';
-    d3.csv("../assets/data/metadata.csv", function(data) {
+    d3.csv("../assets/replication/Data/metadata.csv", function(data) {
         console.log(data)
         if (data.name==name){
             var state=data.state;
