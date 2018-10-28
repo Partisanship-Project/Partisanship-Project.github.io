@@ -52,7 +52,7 @@ function fetchRaceByName(name){
         if (data.name==name){
             var state=data.state;
             var district=data.district
-            fetchRaceDataByDistrict(state,district)
+            fetchRaceData(state,district)
         }
     });
 }
