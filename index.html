@@ -21,6 +21,14 @@
   
   
 </head>
+<style>
+  .ui-autocomplete {
+    background: #d9d9f2;
+    opacity: .9;
+    width: 50px;
+    z-index: 2;
+  }
+</style>
 <body>
   
 <!--NAVBAR-->
@@ -118,7 +126,7 @@
                     </p>
                     
                       <div class="container">
-                        <input id="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off">
+                        <input id="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off" style='background: white'>
                         <input type="submit" value='Candidate Search' onclick="fetchMemberData()">
                         <!--<div class="mbr-section-btn" buttons="0">-->
                         <!--  <a class="btn btn-primary display-9" href="members.html">Explore</a>-->
