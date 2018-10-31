@@ -170,6 +170,7 @@ function fetchRaceData(state,district){
             var headshot_slug=window.data[i].state+headshot_district_slug+'_'+window.data[i].party
             console.log('headshot_slug')
             console.log(headshot_slug)
+
             var headshot_url='../assets/images/headshots/'+headshot_slug+'.jpg';
             console.log('headshot_url')
             console.log(headshot_url)
