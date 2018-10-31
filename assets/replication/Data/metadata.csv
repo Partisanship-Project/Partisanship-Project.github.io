@@ -1,4 +1,4 @@
-name,state,district,party,incumbent,twitter,polldate,state,district,candidatename,party,incumbent,winprobability,votesharepredicted
+﻿name,state,district,party,incumbent,twitter,polldate,state2,district2,candidatename,party,incumbent,winprobability,votesharepredicted
 Bradley Byrne,AL,1,R,1,bradleybyrne,10/11/18,AL,1,Bradley Byrne,R,TRUE,0.9951,65.3
 Robert Kennedy Jr.,AL,1,D,0,kennedy4alabama,10/11/18,AL,1,Robert Kennedy Jr.,D,FALSE,0.0049,34.7
 Martha Roby,AL,2,R,1,teamroby,10/11/18,AL,2,Martha Roby,R,TRUE,0.9964,66.43

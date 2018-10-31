@@ -126,13 +126,13 @@
                     </p>
                     
                       <div class="container">
-                        <input class="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off">
-                        <input type="submit" value='Candidate Search' onclick="fetchMemberData()">
-                        <!--<div class="mbr-section-btn" buttons="0">-->
-                        <!--  <a class="btn btn-primary display-9" href="members.html">Explore</a>-->
-                        <!--</div>-->
+                        <!--<input class="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off">
+                        <input type="submit" value='Candidate Search' onclick="fetchMemberData()">-->
+                        <div class="mbr-section-btn" buttons="0">
+                        <a class="btn btn-primary display-9" href="races.html">Explore</a>-->
+                        </div>
                         
-                        <!--<input type="submit" value='Get Member' onclick="fetchMemberData()">-->
+                        
                       </div>
                     
                   </div>
@@ -175,69 +175,6 @@
     </div>
 </section>
 
-<!--RACE RESULTS-->
-
-<section class="features11 cid-r66XHGBLE7" id="features11-5">
-    <div class="container" style='padding-bottom: 50px'>
-      <input class="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off">
-      <input type="submit" value='Candidate Search' onclick="fetchMemberData()">
-    </div>
-    <div class="container" id='member_container'>
-      <div class="row">
-        <div class='col-sm-6'>
-          <h2>
-            <div id="official_name_l">Representative John Kennedy</div>
-          </h2>
-          <div class=row>
-            <div id='photo_l' class='col-6 col-sm-6'>
-              <img src="assets/images/mbr-952x1150.jpg" style="width: 75%;" id="picture_l" alt="Kennedy" title="">
-            </div>
-            <div class='col-6 col-sm-6'>
-                <div id="affiliation_l">Democrat from the Massachusetts 11th District</div>
-            </div>
-            
-          </div>
-          
-          <div class=row>
-            <div id='photo_l' class='col-6 col-sm-6'>
-              <img src="assets/replication/images/sinclair.jpg" style="width: 150%;" id="picture_l" alt="test" title="">
-            </div>
-          </div>
-          <div class=row>
-            top words table! lalalalalalalalalalalaalallaallaalalalalal
-          </div>
-         
-        </div>
-        <div class='col-sm-6'>
-          <h2>
-            <div id="official_name_r">Representative John Kennedy Jr</div>
-          </h2>
-          <div class=row>
-            <div class='col-6 col-sm-6' >
-              <img src="assets/images/mbr-952x1150.jpg" style="width: 75%;" id="picture_r" alt="Kennedy" title="">
-            </div>
-            <div class='col-6 col-sm-6'>
-                <div id="affiliation_r">Democrat from the Illinois 12th District</div>
-            </div>
-            
-          </div>
-          <div class=row>
-            <div id='photo_l' class=col>
-              <!--class='col-6 col-sm-6'>-->
-              <img src="assets/replication/images/sinclair.jpg" style="width: 100%;" id="picture_l" alt="test" title="">
-            </div>
-          </div>
-          <div class=row>
-            top words table! lalalalalalalalalalalaalallaallaalalalalal
-          </div>
-         
-        </div>
-      </div>
-      
-        
-    </div>          
-</section>
-
 <!--Footer-->
 <section once="" class="cid-r66Xl5gXKf" id="footer6-4">
 
@@ -268,11 +205,12 @@
   
 <script>
   //var member='';
-  if (location.hostname === "localhost" || location.hostname === "127.0.0.1"|| location.hostname === ""){
-    var members=["Jason Radford","Betsy Sinclair"];
-  }else{
-    var members=getMembers();//["Jason Radford","Betsy Sinclair"];
-  }
+  var members=getMembers();//["Jason Radford","Betsy Sinclair"];
+  //if (location.hostname === "localhost" || location.hostname === "127.0.0.1"|| location.hostname === ""){
+  //  var members=["Jason Radford","Betsy Sinclair"];
+  //}else{
+  //  var members=getMembers();//["Jason Radford","Betsy Sinclair"];
+  //}
   $( ".member_select" ).autocomplete({source: members}); //native jquery autocomplete function
   //function autocomplete(inp, arr) {
   //  /*the autocomplete function takes two arguments,
