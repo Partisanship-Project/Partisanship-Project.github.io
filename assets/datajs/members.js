@@ -84,47 +84,48 @@ function fetchRaceByName(name){
     //});
     
 }
-
-function showRaceData(divs){
-    console.log('got here 4')
-    //Hide the carousel - NOT NECESSARY if we move to races.html
-    $('#slider1-1').hide()
-    
-    //now that we have all the cards
-    //clear the existing container
-    $("#member_container").empty()
-    $("#project_summary").hide()
-    
-    //var cardrows=[];
-    //var card=$("<div class='col-"+ratio.toString()+" col-sm-"+ratio.toString()+"'>")
-    //card.append(div)
-    for (r=0; r<=Math.floor(divs.length/3); r++ ){
-        var div =[];
-        if (divs.length>3){
-            div=divs.splice(0,3);           //get three per row
-        }else{
-            div=divs.splice(0,divs.length); //otherwise get all of them
-        }
-        var cards=[];
-        
-        var bigrow=$("<div class=row></div>");
-        for (var k=0; k<=div.length; k++){
-            console.log(JSON.stringify(div[k]))
-            if (div.length<3){
-                var card=$("<div class='col-6 col-sm-6'>");
-            }else{
-                var card=$("<div class='col-4 col-sm-4'>");
-            }
-            card.append(div[k]);
-            bigrow.push(card);
-        }
-        cardrows.push(bigrow)
-    console.log('got here final')
-    console.log(cardrows)
-    return cardrows
-    //$("#member_container").append(cardrows);        
-    }   
-}
+//
+//function showRaceData(divs){
+//    console.log('got here 4')
+//    //Hide the carousel - NOT NECESSARY if we move to races.html
+//    $('#slider1-1').hide()
+//    
+//    //now that we have all the cards
+//    //clear the existing container
+//    $("#member_container").empty()
+//    $("#member_container_example").hide()
+//    $("#project_summary").hide();
+//    
+//    //var cardrows=[];
+//    //var card=$("<div class='col-"+ratio.toString()+" col-sm-"+ratio.toString()+"'>")
+//    //card.append(div)
+//    for (r=0; r<=Math.floor(divs.length/3); r++ ){
+//        var div =[];
+//        if (divs.length>3){
+//            div=divs.splice(0,3);           //get three per row
+//        }else{
+//            div=divs.splice(0,divs.length); //otherwise get all of them
+//        }
+//        var cards=[];
+//        
+//        var bigrow=$("<div class=row></div>");
+//        for (var k=0; k<=div.length; k++){
+//            console.log(JSON.stringify(div[k]))
+//            if (div.length<3){
+//                var card=$("<div class='col-6 col-sm-6'>");
+//            }else{
+//                var card=$("<div class='col-4 col-sm-4'>");
+//            }
+//            card.append(div[k]);
+//            bigrow.push(card);
+//        }
+//        cardrows.push(bigrow)
+//    console.log('got here final')
+//    console.log(cardrows)
+//    return cardrows
+//    //$("#member_container").append(cardrows);        
+//    }   
+//}
 
 function fetchRaceData(state,district){
     console.log('got here 3')
@@ -230,7 +231,8 @@ function fetchRaceData(state,district){
     //now that we have all the cards
     //clear the existing container
     $("#member_container").empty()
-    
+    $("#member_container_example").hide()
+    $("#project_summary").hide();
     //Center heading for results
     var main= $("<h2 style='text-align:center'>Candidates for "+ state+ " "+district +" </h5>");
     var cardrows=[];
