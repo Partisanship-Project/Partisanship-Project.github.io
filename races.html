@@ -104,14 +104,16 @@
 
 <section class="features11 cid-r66XHGBLE7" id="features11-5">
     <div class="container" style='padding-bottom: 50px; align-content: center; text-align: center'>
-      <input class="member_select" type="text" name="myMember" placeholder="Name of a Candidate" autocomplete="off">
+      <input class="member_select" type="text" name="myMember" placeholder="(Name of Candidate)" autocomplete="off">
       <input type="submit" value='Search' onclick="fetchMemberData()">
-      <p align='center' style='text-align: center'>Don't know who your candidats are? <br>
+      <p align='center' style='text-align: center'>Don't know who your candidates are? <br>
       Find them with your address at <br>
-      <a style='color: blue' hlink="https://www.vote411.org/" alt="League of Women Voters">Vote411.org</a> </p>
+      <a  href="https://www.vote411.org/" alt="League of Women Voters">Vote411.org</a> </p>
+    </div>
+    <div class="container" id='member_container'>
     </div>
     <div class="container" id='project_summary'>
-      <h2 style='text-align:center'>Welcome!</h2><br>
+      
       <ul style='color: black'>
         <li><h4>How does it work?</h4>
         <p style='color: black'>We have already done the calculations for the partisanship being expressed by the candidates in House and
@@ -119,16 +121,15 @@
         above and click "Search." We'll show you how the candidate's average partisanship has evolved this year and
         the partisan words they've used most this year.</p>
         </li>
-        <li><h4>What is this based on?</h4>
-        <p style='color: black'>We have been studying the ways in which politicians' communicate their stances on political issues and
-        affiliation for their parties for the past five years. We use machine learning algorithms to identify the words
-        and phrases democrats and republicans use on Twitter and measure how partisan those words are. Words that are
-        more frequently used by republicans are more conservate than words used more frequently by democrats. We then
-        estimate how liberal or conservative an individual candidate or politician`is by how often they use
-        these partisan words.</p>
+        <li><h4>How do you do it?</h4>
+        <p style='color: black'>We use machine learning algorithms to identify the words and phrases Democrats and Republicans use on
+        Twitter and measure how partisan those words are. Words that are used more frequently by Republicans are systematically
+        different than words used more frequently by Democrats.  This allows us to observe the intensity of a candidate's expressed
+        partisanship based on the frequency of their use of partisan words. You can read more about this method in our working research
+        paper here (link: XX). .</p>
         </li>
       </ul>
-    For more informaiton on our approach, read our working paper
+    
       
     <div class="container" id='member_container'>
       <div class="row">
@@ -180,7 +181,7 @@
           </div>
           <div class=row >
             <div id='photo_r' class=col  style='text-align: center'>
-              <!--class='col-6 col-sm-6'>-->
+              
               <img src="assets/replication/images/18thil.jpg" style="width: 75%; display: inline-block" data-toggle="tooltip" id="picture_l" alt="test" title="Estimated partisanship over time">
             </div>
           </div>
@@ -234,7 +235,7 @@
   <script src="http://d3js.org/queue.v1.min.js" charset="utf-8"></script>
   
 <script>
-  $("#member_container").empty()
+  //$("#member_container").empty()
   //var member='';
   var members=getMembers();//["Jason Radford","Betsy Sinclair"];
   //if (location.hostname === "localhost" || location.hostname === "127.0.0.1"|| location.hostname === ""){

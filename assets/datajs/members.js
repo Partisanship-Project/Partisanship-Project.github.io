@@ -93,6 +93,7 @@ function showRaceData(divs){
     //now that we have all the cards
     //clear the existing container
     $("#member_container").empty()
+    $("#project_summary").hide()
     
     //var cardrows=[];
     //var card=$("<div class='col-"+ratio.toString()+" col-sm-"+ratio.toString()+"'>")
