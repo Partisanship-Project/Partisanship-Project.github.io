@@ -159,45 +159,42 @@ function fetchRaceData(state,district){
             }
             
             if (window.data[i].party=='D'){
-                party='Democratic Candidate for ';
+                party='<span style="color: #0000a0">Democratic</span> Candidate';
             }else if (window.data[i].party=='R'){
-                party='Republican Candidate for ';
+                party='<span style="color: #ff0000">Republican</span> Candidate';
             }else{
                 party='Candidate for ';
             }
-            console.log('headshot_district_slug')
-            console.log(headshot_district_slug)
-            var headshot_slug=window.data[i].state+headshot_district_slug+'_'+window.data[i].party
-            console.log('headshot_slug')
-            console.log(headshot_slug)
+            
+            var headshot_slug=window.data[i].state+headshot_district_slug+'_'+window.data[i].party;
+            
 
             var headshot_url='../assets/images/headshots/'+headshot_slug+'.jpg';
-            console.log('headshot_url')
-            console.log(headshot_url)
+            
             //headshot_url='../assets/images/headshots/sinclair.jpg';
             
             //create title
-            var h=$("<h5></h5>");
+            var h=$("<h5 style='text-align: center'></h5>");
             var n=$("<div id='official_name"+i.toString()+"'>").text(window.data[i].name); //.text(title.concat(window.data[i].name));
             h.append(n);
             
             //create and append first row of profile picture and member info
             var row1=$("<div class=row></div>")
             var col1=$("<div class='col-6 col-sm-6'>")
-            var img1=$('<img src='+headshot_url+' style="width: 100%;" id="picture_'+count.toString()+'" title="">');
+            var img1=$('<img src='+headshot_url+' style="width: 100%;"  id="picture_'+count.toString()+'" title="">');
             col1.append(img1)
             var col2=$("<div class='col-6 col-sm-6'>")
-            var af=$('<div id="affiliation_'+count.toString()+'"></div>').text(party.concat(window.data[i].state))
+            var af=$('<div id="affiliation_'+count.toString()+'"></div>').html(party);
             col2.append(af)
             row1.append(col1,col2)
             
             //create and append second row of history of partisanship
-            var row2=$("<div class=row></div>")
-            var col3=$("<div class='col-12'>")
+            var row2=$("<div class=row style='padding-top: 15px'></div>")
+            var col3=$("<div class='col' style='text-align: center'>")
             if (window.data[i].twitter!=''){
                 var history_url='/assets/replication/Images/'+window.data[i].twitter+'.jpg';
                 //history_url='/assets/replication/Images/sinclair.jpg';
-                var photo=$('<img src='+history_url+' style="width: 100%;" id="history_'+count.toString()+'" title="">');
+                var photo=$('<img src='+history_url+' style="width: 75%;" data-toggle="tooltip" id="history_'+count.toString()+'" title="Estimated partisanship over time">');
                 //var words=getWords(data.twitter);
             }else{
                 var photo=$("<h5>No Twitter Account Found</h5>");
@@ -233,6 +230,8 @@ function fetchRaceData(state,district){
     //clear the existing container
     $("#member_container").empty()
     
+    //Center heading for results
+    var main= $("<h2 style='text-align:center'>Candidates for "+ state+ " "+district +" </h5>");
     var cardrows=[];
     var cards=[];
     console.log('checking multirow results')
@@ -262,7 +261,7 @@ function fetchRaceData(state,district){
     cardrows.push(bigrow);
     }
     console.log(JSON.stringify(cardrows))
-    $("#member_container").append(cardrows);
+    $("#member_container").append(main,cardrows);
               
                 
     //});
@@ -302,7 +301,7 @@ function getWordTable(twitter){
             var tablerow=phrases.splice(0,phrases.length); //otherwise get all of them
         }
         for (k=0; k<tablerow.length; k++){
-            var Cell=$("<td></td>");
+            var Cell=$("<td style='padding:5px'></td>");
             Cell.text(tablerow[k])
             cells.push(Cell)
             //var cell=words[i]
@@ -311,11 +310,13 @@ function getWordTable(twitter){
         rows.push(Row)
         
     }
-    var h=$("<h5>Most Partisan Phrases this Year</h5>");
-    var table=$("<table class=words></table>");
+    var h=$("<h5 style='text-align: center'>Most Partisan Phrases this Year</h5>");
+    var table=$("<table class=words style='border: 1px solid black; margin: 0 auto' data-toggle='tooltip' title='These are the words used by this candidate that our algorithm predicts are also associated with their party'></table>");
     table.append(rows)
-    var div=$("<div class=row></div>");
-    div.append(h,table)
+    var div=$("<div class=row style='padding-top: 15px'></div>");
+    var col=$("<div class=col style='text-align: center'></div>");
+    col.append(h,table)
+    div.append(col)
     return div
 }
 function unitTest(){

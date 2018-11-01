@@ -39,9 +39,9 @@
     z-index: 2;
   }
   table.words td{
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     table-layout: fixed;
-    width: 100%
+    /*width: 100%*/
     
   }
   table.words{
@@ -103,10 +103,33 @@
 <!--RACE RESULTS-->
 
 <section class="features11 cid-r66XHGBLE7" id="features11-5">
-    <div class="container" style='padding-bottom: 50px'>
-      <input class="member_select" type="text" name="myMember" placeholder="Candidate" autocomplete="off">
-      <input type="submit" value='Candidate Search' onclick="fetchMemberData()">
+    <div class="container" style='padding-bottom: 50px; align-content: center; text-align: center'>
+      <input class="member_select" type="text" name="myMember" placeholder="Name of a Candidate" autocomplete="off">
+      <input type="submit" value='Search' onclick="fetchMemberData()">
+      <p align='center' style='text-align: center'>Don't know who your candidats are? <br>
+      Find them with your address at <br>
+      <a style='color: blue' hlink="https://www.vote411.org/" alt="League of Women Voters">Vote411.org</a> </p>
     </div>
+    <div class="container" id='project_summary'>
+      <h2 style='text-align:center'>Welcome!</h2><br>
+      <ul style='color: black'>
+        <li><h4>How does it work?</h4>
+        <p style='color: black'>We have already done the calculations for the partisanship being expressed by the candidates in House and
+        Senate races this year. All you need to do is enter in the name of the candidate you want to find in the box
+        above and click "Search." We'll show you how the candidate's average partisanship has evolved this year and
+        the partisan words they've used most this year.</p>
+        </li>
+        <li><h4>What is this based on?</h4>
+        <p style='color: black'>We have been studying the ways in which politicians' communicate their stances on political issues and
+        affiliation for their parties for the past five years. We use machine learning algorithms to identify the words
+        and phrases democrats and republicans use on Twitter and measure how partisan those words are. Words that are
+        more frequently used by republicans are more conservate than words used more frequently by democrats. We then
+        estimate how liberal or conservative an individual candidate or politician`is by how often they use
+        these partisan words.</p>
+        </li>
+      </ul>
+    For more informaiton on our approach, read our working paper
+      
     <div class="container" id='member_container'>
       <div class="row">
         <div class='col-sm-6'>
@@ -118,25 +141,25 @@
               <img src="assets/images/Nixon.jpg" style="width: 75%;" id="picture_l" alt="Kennedy" title="">
             </div>
             <div class='col-6 col-sm-6'>
-                <div id="affiliation_l">Republican from California's 12th District</div>
+                <div id="affiliation_l"><span style="color: #ff0000">Republican</span> from California's 12th District</div>
             </div>
             
           </div>
           
-          <div class=row>
-            <div id='photo_l' class='col-6 col-sm-6'>
-              <img src="assets/replication/images/1776notinvain.jpg" style="width: 150%;" id="picture_l" alt="test" title="">
+          <div class=row style='padding-top: 15px'>
+            <div id='photo_l' class='col' style='text-align: center'>
+              <img src="assets/replication/images/1776notinvain.jpg" style="width: 75%;" data-toggle="tooltip" id="picture_l" alt="test" title="Estimated partisanship over time"> 
             </div>
           </div>
-          <div class=row>
-            <table class=words style='border: 2px solid black;'>
-              <tr>
-                <td>communism</td>
-                <td>crisis</td>
+          <div class=row data-toggle="tooltip" title="These are the words used by this candidate that our algorithm predicts are also associated with their party">
+            <table class=words style='border: 1px solid black; margin: 0 auto' >
+              <tr >
+                <td style='padding:10px'>communism</td>
+                <td style='padding:10px'>crisis</td>
               </tr>
               <tr>
-                <td>checkers</td>
-                <td>eisenhower</td>
+                <td style='padding:10px'>checkers</td>
+                <td style='padding:10px'>eisenhower</td>
               </tr>
             </table>
           </div>
@@ -144,21 +167,21 @@
         </div>
         <div class='col-sm-6'>
           <h3>
-            <div id="official_name_r">John Kennedy Jr</div>
+            <div id="official_name_r">John Kennedy</div>
           </h3>
           <div class=row>
             <div class='col-6 col-sm-6' >
               <img src="assets/images/mbr-952x1150.jpg" style="width: 75%;" id="picture_r" alt="Kennedy" title="">
             </div>
             <div class='col-6 col-sm-6'>
-                <div id="affiliation_r">Democrat from the Illinois 12th District</div>
+                <div id="affiliation_r"><span style="color: #0000a0">Democrat</span> from the Massachusetts 12th District</div>
             </div>
             
           </div>
-          <div class=row>
-            <div id='photo_l' class=col>
+          <div class=row >
+            <div id='photo_r' class=col  style='text-align: center'>
               <!--class='col-6 col-sm-6'>-->
-              <img src="assets/replication/images/18thil.jpg" style="width: 75%;" id="picture_l" alt="test" title="">
+              <img src="assets/replication/images/18thil.jpg" style="width: 75%; display: inline-block" data-toggle="tooltip" id="picture_l" alt="test" title="Estimated partisanship over time">
             </div>
           </div>
           <div class=row>
@@ -211,6 +234,7 @@
   <script src="http://d3js.org/queue.v1.min.js" charset="utf-8"></script>
   
 <script>
+  $("#member_container").empty()
   //var member='';
   var members=getMembers();//["Jason Radford","Betsy Sinclair"];
   //if (location.hostname === "localhost" || location.hostname === "127.0.0.1"|| location.hostname === ""){
