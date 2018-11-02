@@ -194,7 +194,7 @@ function fetchRaceData(state,district){
             var row2=$("<div class=row style='padding-top: 15px'></div>")
             var col3=$("<div class='col' style='text-align: center'>")
             if (window.data[i].twitter!=''){
-                var history_url='/assets/replication/Images/'+window.data[i].twitter+'.jpg';
+                var history_url='/assets/replication/Images/'+window.data[i].twitter.toLowerCase()+'.jpg';
                 //history_url='/assets/replication/Images/sinclair.jpg';
                 var photo=$('<img src='+history_url+' style="width: 75%;" data-toggle="tooltip" id="history_'+count.toString()+'" title="Estimated partisanship over time">');
                 //var words=getWords(data.twitter);
