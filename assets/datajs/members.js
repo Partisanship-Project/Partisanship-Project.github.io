@@ -200,6 +200,7 @@ function fetchRaceData(state,district){
                 //var words=getWords(data.twitter);
             }else{
                 var photo=$("<h5>No Twitter Account Found</h5>");
+                photo=$(""); //don't need to say "no twitter account twice" as it is pulled in for wordtable too.
                 //var history_url='/assets/replication/Images/no_data.jpg';       //need to create this image
                 //history_url='/assets/replication/Images/sinclair.jpg';
             }
